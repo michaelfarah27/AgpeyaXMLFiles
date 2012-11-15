@@ -1,0 +1,74 @@
+<settings>
+    <language><name>English</name></language>
+    <language><name>Arabic</name></language>
+
+    <font><name>Arial</name></font>
+    <font><name>HelveticaNeue</name></font>
+    <font><name>Kailasa</name></font>
+    <font><name>MarkerFelt-Thin</name></font>
+    <font><name>OriyaSangamMN</name></font>
+    <font><name>Papyrus</name></font>
+    <font><name>TrebuchetMS</name></font>
+    <font><name>Verdana</name></font>
+    <font><name>AmericanTypewriter</name></font>
+    <font><name>ArialHebrew</name></font>
+    <font><name>Avenir-Book</name></font>
+    <font><name>Futura-Medium</name></font>
+    <font><name>Thonburi</name></font>
+
+    <setting><option>Navigation Bar Color</option></setting>
+    <setting><option>Font Type</option></setting>
+    <setting><option>Font Size</option></setting>
+    <setting><option>Text Align</option></setting>
+    <setting><option>Autorotation</option></setting>
+    <setting><option>Page Swipes</option></setting>
+    <setting><option>Background Image</option></setting>
+    <setting><option>Restore Default Settings</option></setting>
+
+    <color>
+        <name>Blue</name>
+        <value>#0065b7</value>
+    </color>
+    
+    
+    <color>
+        <name>Green</name>
+        <value>#22bc6a</value>
+    </color>
+    
+    <color>
+        <name>Red</name>
+        <value>#cd3a36</value>
+    </color>
+    
+    
+    <color>
+        <name>Orange</name>
+        <value>#f68308</value>
+    </color>
+    
+    <color>
+        <name>Yellow</name>
+        <value>#e2bf1b</value>
+    </color>
+    
+    <color>
+        <name>Pink</name>
+        <value>#fa6eff</value>
+    </color>
+    
+    <color>
+        <name>Purple</name>
+        <value>#a717ac</value>
+    </color>
+    
+    
+    <color>
+        <name>Black</name>
+        <value>#000000</value>
+    </color>
+    
+    <other><name>About</name></other>
+    <other><name>Support</name></other>
+    
+</settings>
