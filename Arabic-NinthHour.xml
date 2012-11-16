@@ -1,6 +1,6 @@
 <hour>
-    <info><hourName>صلاة الساعة التاسعة</hourName>
-        <description>Instituted to commemorate the hour of death of our Lord Jesus Christ in the flesh, and the right-hand thief who found favour in His eyes.</description>
+    <info><hourName> صلاة الساعة التاسعة</hourName>
+        <description>في الساعة التاسعة نادى ربنا يسوع بصوت عظيم "يا أبتاه في يديك أستودع روحي" وأسلم الروح فانشق حجاب الهيكل من وسطه. وأنارت الشمس التي أظلمت في الساعة السادسة. وفي هذه الساعة نتذكر اللص الذي سأل أن يذكره المخلص في ملكوته فأعطاه سؤله. وهي تقابل الثالثة بعد الظهر بالتوقيت الإفرنجي.</description>
     </info>
     <prayer>
 		<title>مقدمة كل ساعة</title>
@@ -68,93 +68,116 @@
 	</prayer>
 	
 	<prayer>
-		<title>Introduction</title>
-		<content>The Prayer of the Ninth Hour of this blessed day is offered to Christ my King and my God, beseeching Him to forgive my sins.
+		<title>بدء الصلاة</title>
+		<content>تسبحة الساعة التاسعة من النهار المبارك أقدمها للمسيح ملكي وإلهي وأرجوه أن يغفر لي خطاياي .
+</content>
+	</prayer>
+	
+	<prayer>
+		<title> المزمور الخامس والتسعون</title>
+		<content>سبحوا الرب تسبيحا جديدا، سبحي الرب يا كل الأرض، سبحوا الرب وباركوا اسمه. بشروا من يوم إلى يوم بخلاصه. حدثوا في الأمم بمجده وبين جميع الشعوب بعجائبه، لأن الرب عظيم هو ومسبح جدا. مرهوب على كل الآلهة لأن كل آلهة الأمم شَيَاطين، أما الرب فصنع السموات. الجلال والبهاء قدامه، الطهر والجمال العظيم في قدسه.
+
+قدموا للرب يا جميع قبائل الأمم، قدموا للرب مجدا وكرامة، قدموا للرب مجدا لاسمه. احملوا الذبائح وادخلوا دياره، اسجدوا للرب في دياره المقدسة. فلتتزلزل الأرض كلها من أمام وجهه. قولوا بين الأمم إن الرب قد ملك على خشبة، وأيضا ثبت المسكونة فلن تتزعزع. يدين الشعوب بالاستقامة. فلتفرح السموات ولتبتهج الأرض وليعج البحر وجميع ملئه، تفرح الوديان وكل ما فيها، حينئذ يبتهج كل شجر الغاب أمام وجه الرب، لأنه يأتي ليدين الأرض، يدين المسكونة بالعدل والشعوب بالاستقامة هلليلويا
 		 </content>
 	</prayer>
 	
 	<prayer>
-		<title>Psalm 96</title>
-		<content>Oh, sing to the LORD a new song! Sing to the LORD, all the earth. Sing to the LORD, bless His name; Proclaim the good news of His salvation from day to day. Declare His glory among the nations, His wonders among all peoples. For the LORD is great and greatly to be praised; He is to be feared above all gods. For all the gods of the peoples are idols, But the LORD made the heavens. Honour and majesty are before Him; Strength and beauty are in His sanctuary. Give to the LORD, O kindreds of the peoples, Give to the LORD glory and strength. Give to the LORD the glory due His name; Bring an offering, and come into His courts. Oh, worship the LORD in the beauty of holiness! Tremble before Him, all the earth. Say among the nations, “The LORD reigns; The world also is firmly established, It shall not be moved; He shall judge the peoples righteously.” Let the heavens rejoice, and let the earth be glad; Let the sea roar, and all its fullness; Let the field be joyful, and all that is in it. Then all the trees of the woods will rejoice before the LORD. For He is coming, for He is coming to judge the earth. He shall judge the world with righteousness, And the peoples with His truth. Alleluia.
-		 </content>
+		<title>المزمور السادس والتسعون</title>
+		<content>الرب قد ملك فلتتهلل الأرض، ولتفرح الجزائر الكثيرة. سحاب وضباب حوله، العدل والقضاء قوام كرسيه، النار تسبق فتسلك أمامه، وبلهيب تحرق أعداءه الذين حوله. أضاءت بروقه المسكونة. نظرت الأرض فتزلزلت، ذابت الجبال مثل الشمع من قدام وجه الرب، من أمام وجه رب الأرض كلها. أخبرت السموات بعدله، وعاينت جميع الشعوب مجده .
+
+ يخزى جميع الساجدين لصنعة الأيدي، المفتخرين بأصنامهم. اسجدوا لله يا جميع ملائكته. سمعت صهيون ففرحت، وتهللت بنات يهوذا، من أجل أحكامك يا رب. لأنك أنت هو الرب العالي على كل الأرض، ارتفعت جدا فوق جميع الآلهة.
+
+يا محبي الرب أبغضوا الشر. إن الرب يحفظ نفوس أبراره، وينجيهم من أيدي الخطاة. نور أشرق للصديقين وفرح للمستقيمي القلوب. افرحوا أيها الصديقون بالرب. واعترفوا لذكر قدسه. هلليلويا.
+		</content>
 	</prayer>
 	
 	<prayer>
-		<title>Psalm 97</title>
-		<content>The LORD reigns; Let the earth rejoice; Let the multitude of isles be glad! Clouds and darkness surround Him; Righteousness and justice are the foundation of His throne. A fire goes before Him, And burns up His enemies round about. His lightnings light the world; The earth sees and trembles. The mountains melt like wax at the presence of the LORD, At the presence of the Lord of the whole earth. The heavens declare His righteousness, And all the peoples see His glory. Let all be put to shame who serve carved images, Who boast of idols. Worship Him, all you gods. Zion hears and is glad, And the daughters of Judah rejoice Because of Your judgments, O LORD. For You, LORD, are most high above all the earth; You are exalted far above all gods. You who love the LORD, hate evil! He preserves the souls of His saints; He delivers them out of the hand of the wicked. Light is sown for the righteous, And gladness for the upright in heart. Rejoice in the LORD, you righteous, And give thanks at the remembrance of his holy name. Alleluia.
-		 </content>
+		<title> المزمور السابع والتسعون</title>
+		<content>سبحوا الرب تسبيحا جديدا لأن الرب قد صنع أعمالا عجيبة، خلصتْ له يمينه وذراعه القدوس، أعلن الرب خلاصه وكشف قدام الأمم عدله. ذكر رحمته ليعقوب وحقه لبيت إسرائيل. نظرت أقاصي الأرض جميعا خلاص إلهنا.
+
+هللوا للرب يا كل الأرض، سبحوا وهللوا ورتلوا. رتلوا للرب بالقيثارة، بالقيثارة وصوت المزمار. بأبواق خافقة وصوت بوق القرن، هللوا أمام الرب الملك. فليعج البحر وكل ملئه، المسكونة وكل الساكنين فيها. تصفق جميع الأنهار، الجبال تبتهج أمام وجه الرب، لأنه أتى ليدين الأرض، يدين المسكونة بالعدل والشعوب بالاستقامة هلليلويا.
+		</content>
 	</prayer>
 	
 	<prayer>
-		<title>Psalm 98</title>
-		<content>Oh, sing to the LORD a new song! For He has done marvellous things; His right hand and His holy arm have gained Him the victory. The LORD has made known His salvation; His righteousness He has openly shown in the sight of the nations. He has remembered His mercy and His faithfulness to the house of Israel; All the ends of the earth have seen the salvation of our God. Shout joyfully to the LORD, all the earth; Break forth in song, rejoice, and sing praises. Sing to the LORD with the harp, With the harp and the sound of a psalm, With trumpets and the sound of a horn; Shout joyfully before the LORD, the King. Let the sea roar, and all its fullness, The world and those who dwell in it; Let the rivers clap their hands; Let the hills be joyful together before the LORD, For He is coming to judge the earth. With righteousness He shall judge the world, And the peoples with equity. Alleluia.
-		 </content>
+		<title> المزمور الثامن والتسعون</title>
+		<content>الرب قد ملك فلترتعد الشعوب. الجالس على الشاروبيم فلتتزلزل الأرض. عظيم هو الرب في صهيون ومتعال على كل الشعوب. فليعترفوا لاسمه العظيم لأنه مرهوب وقدوس وكرامة الملك أن يحب العدل أنت هيأت الاستقامة أنت أجريت القضاء والعدل في يعقوب.
+
+ارفعوا الرب إلهنا واسجدوا لموطئ قدميه فإنه قدوس هو. موسى وهرون بين كهنته وصموئيل بين الذين يدعون باسمه، كانوا يدْعون الرب فيستجيب لهم، بعمود الغمام كان يكلمهم. لأنهم حفظوا شهاداتِه، والأوامرَ التي أعطاهم. أيها الرب إلهنا، أنت استجبت لهم. صرت لهم يا الله غفورا، ومنتقما على جميع أعمالهم. ارفعوا الرب إلهنا، واسجدوا في جبله المقدس، فإن الربَّ إلهنا قدوس. هلليلويا.
+		</content>
 	</prayer>
 	
 	<prayer>
-		<title>Psalm 99</title>
-		<content>The LORD reigns; Let the peoples tremble! He dwells between the cherubim; Let the earth be moved! The LORD is great in Zion, And He is high above all the peoples. Let them praise Your great and awesome name—He is holy. The King’s strength also loves justice; You have established equity; You have executed justice and righteousness in Jacob. Exalt the LORD our God, And worship at His footstool; For He is holy. Moses and Aaron were among His priests, And Samuel was among those who called upon His name; They called upon the LORD, and He answered them. He spoke to them in the cloudy pillar; They kept His testimonies and the ordinance that He gave them. You answered them, O LORD our God; You were to them God-Who-Forgives, Though You took vengeance on their deeds. Exalt the LORD our God, And worship at His holy hill; For the LORD our God is holy. Alleluia.
-		 </content>
+		<title> المزمور التاسع والتسعون</title>
+		<content>هللوا للرب يا كل الأرض. اعبدوا الرب بالفرح، ادخلوا أمامه بالتهليل. اعلموا أن الرب هو إلهنا، هو صنعنا وليس نحن، ونحن شعبه وغنم رعيته. ادخلوا أبوابه بالاعتراف، ودياره بالتسابيح. اعترفوا له، وباركوا اسمه. فإن الرب صالح هو، والى الأبد رحمته، وإلى جيل فجيل حقه. هلليلويا. 
+		</content>
 	</prayer>
 	
 	<prayer>
-		<title>Psalm 100</title>
-		<content>Make a joyful shout to the LORD, all you lands! Serve the LORD with gladness; Come before His presence with singing. Know that the LORD, He is God; It is He who has made us, and not we ourselves; We are His people and the sheep of His pasture. Enter into His gates with thanksgiving, And into His courts with praise. Be thankful to Him, and bless His name. For the LORD is good; His mercy is everlasting, And His truth endures to all generations. Alleluia.
-		 </content>
+		<title>المزمور المائة</title>
+		<content>رحمة وحكما أسبحك يا رب. أترنم لك. وأتفهم في طريق بلا عيب. متى تأتى إليّ؟ لقد كنت أسلك بدعة قلبي في وسط بيتي. لم أضع أمام عيني أمرا يخالف الناموسَ. صانعي المعصية أبغضتُ. لم يلصق بي قلب معوج، وعند ميلان الشرير عنى لم أكن أعلم، والذي يغتاب قريبه سرا كنت أطارده، المستكبر بعينيه والمنتفخ القلب لم أوآكله.
+
+عيناي على جميع أمناء الأرض لكي أجلسهم معي. السالك في الطريق بلا عيب هذا كان يخدمني. المتكبر لم يسكن في وسط بيتي. المتكلم بالظلم لم يستقِم أمام عيني. في أوقات الغدوات كنت أقتل جميع خطاة الأرض، لأبيد من مدينة الرب جميع صانعي الإثم هلليلويا .
+		</content>
 	</prayer>
 	
 	<prayer>
-		<title>Psalm 101</title>
-		<content>I will sing of mercy and justice; To You, O LORD, I will sing praises. I will behave wisely in a perfect way. Oh, when will You come to me? I will walk within my house with a perfect heart. I will set nothing wicked before my eyes; I hate the work of those who fall away; It shall not cling to me. A perverse heart shall depart from me; I will not know wickedness. Whoever secretly slanders his neighbour, Him I will destroy; The one who has a haughty look and a proud heart, Him I will not endure. My eyes shall be on the faithful of the land, That they may dwell with me; He who walks in a perfect way, He shall serve me. He who works deceit shall not dwell within my house; He who tells lies shall not continue in my presence. Early I will destroy all the wicked of the land, That I may cut off all the evildoers from the city of the LORD. Alleluia.
-		 </content>
+		<title>المزمور المائة والتاسع</title>
+		<content>قال الرب لربي: اجلس عن يميني حتى أضع أعداءك تحت موطئ قدميك. عصا قوة يرسل لك الرب من صهيون وتسود في وسط أعدائك. معك الرياسة في يوم قوتك، في بهاء القديسين. من البطن قبل كوكب الصبح ولدتك.
+
+أقسم الرب ولن يندمَ أنك أنت هو الكاهن على طقس ملكيصادَق. الرب عن يمينك، يحطم في يوم رجزه ملوكا، يقضي بين الأمم ويملأهم جثثا، يسحق رؤوس كثيرين على الأرض. وفي الطريق يشرب الماء من الوادي. لذلكَ يرفع رأسه هلليلويا.
+		</content>
 	</prayer>
 	
 	<prayer>
-		<title>Psalm 110</title>
-		<content>The LORD said to my Lord, “Sit at My right hand, Till I make Your enemies Your footstool.” The LORD shall send the rod of Your strength out of Zion. Rule in the midst of Your enemies! Your people shall be volunteers In the day of Your power; In the beauties of holiness, from the womb of the morning, You have the dew of Your youth. The LORD has sworn And will not relent, “You are a priest forever According to the order of Melchizedek.” The Lord is at Your right hand; He shall execute kings in the day of His wrath. He shall judge among the nations, He shall fill the places with dead bodies, He shall execute the heads of many countries. He shall drink of the brook by the wayside; Therefore He shall lift up the head. Alleluia.
-		 </content>
+		<title> المزمور المائة والعاشر</title>
+		<content>أعترف لك يا رب من كل قلبي. في مجلس المستقيمين وفي مجمعهم. عظيمة هي أعمال الرب، ومشيئاته كلها مفحوصة، جلال وبهاء عمله، وعدله دائم إلى أبد الأبد. صنع ذكرا لجميع عجائبه. رحيم هو الرب ورؤوف، أعطى طعامه لأتقيائه، يذكر إلى الدهر ميثاقه. خبَّر شعبَه بقوة أعماله، ليعطيهم ميراث الأمم. أعمال يديه حق وعدل. كل وصاياه صادقة، ثابتة إلى دهر الدهور، مصنوعة بالحق والاستقامة. أرسل خلاصا لشعبه، أمر بعهده إلى الأبد. اسمه قدوس ومرهوب. رأس الحكمة مخافة الرب، والفهم صالح لكل من يعمل به، وتسبحته دائمة إلى الأبد هلليلويا.
+		</content>
 	</prayer>
 	
 	<prayer>
-		<title>Psalm 111</title>
-		<content>Praise the LORD! I will praise the LORD with my whole heart, In the assembly of the upright and in the congregation. The works of the LORD are great, Studied by all who have pleasure in them. His work is honourable and glorious, And His righteousness endures forever. He has made His wonderful works to be remembered; The LORD is gracious and full of compassion. He has given food to those who fear Him; He will ever be mindful of His covenant. He has declared to His people the power of His works, In giving them the heritage of the nations. The works of His hands are verity and justice; All His precepts are sure. They stand fast forever and ever, And are done in truth and uprightness. He has sent redemption to His people; He has commanded His covenant forever: Holy and awesome is His name. The fear of the LORD is the beginning of wisdom; A good understanding have all those who do His commandments. His praise endures forever. Alleluia.
-		 </content>
+		<title>المزمور المائة والحادي عشر</title>
+		<content>طوبى للرجل الخائف الرب ويهوى وصاياه جدا. يقوى نسله على الأرض. جيل المستقيمين يُبارَك. مجدٌ وغِنىً في بيته، وبره يدوم إلى الأبد. نور أشرق في الظلمة للمستقيمين. رحيم هو الرب الإله ورؤوف وبار. صالح هو الرجل الذي يتراءف ويُقرض ويدبر أقواله بالحق، لأنه لا يتزعزع إلى الدهر. ذِكر الصديق يدوم إلى الأبد، ولا يخشى من خبر السوء. قلبه مستعد متكل على الرب. قلبه ثابت لا يتزعزع حتى يرى بأعدائه. فرق وأعطى المساكين. بره دائم إلى دهر الدهور. يرتفع قرنه بالمجد. الخاطئ يبصر فيغتاظ ويصر بأسنانه ويذوب، شهوة الخاطئ تبيد. هلليلويا.
+		</content>
 	</prayer>
 	
 	<prayer>
-		<title>Psalm 112</title>
-		<content>Praise the LORD! Blessed is the man who fears the LORD, Who delights greatly in His commandments. His descendants will be mighty on earth; The generation of the upright will be blessed. Wealth and riches will be in his house, And his righteousness endures forever. Unto the upright there arises light in the darkness; He is gracious, and full of compassion, and righteous. A good man deals graciously and lends; He will guide his affairs with discretion. Surely he will never be shaken; The righteous will be in everlasting remembrance. He will not be afraid of evil tidings; His heart is steadfast, trusting in the LORD. His heart is established; He will not be afraid, Until he sees his desire upon his enemies. He has dispersed abroad, He has given to the poor; His righteousness endures forever; His horn will be exalted with honour. The wicked will see it and be grieved; He will gnash his teeth and melt away; The desire of the wicked shall perish. Alleluia.
-		 </content>
+		<title> المزمور المائة والثاني عشر</title>
+		<content>سبحوا الرب أيها الفتيان، سبحوا اسم الرب. ليكن اسم الرب مباركا من الآن والى الأبد. من مشارق الشمس إلى مغاربها باركوا اسم الرب. الرب عال على كل الأمم وفوق السموات مجده. من مثل الرب إلهنا ؟! الساكن في الأعالي الناظر إلى المتواضعين في السماء وعلى الأرض، المقيم المسكين من التراب، الرافع البائس من المزبلة، لكي يُجلسه مع رؤساء شعبه. الذي يجعل العاقر ساكنة في بيت أم أولادٍ فرحة هلليلويا.
+		</content>
 	</prayer>
 	
 	<prayer>
-		<title>Psalm 113</title>
-		<content>Praise the LORD! Praise, O servants of the LORD, Praise the name of the LORD! Blessed be the name of the LORD From this time forth and forevermore! From the rising of the sun to its going down The Lord’s name is to be praised. The LORD is high above all nations, And His glory above the heavens. Who is like the LORD our God, Who dwells on high, Who humbles Himself to behold The things that are in the heavens and in the earth? He raises the poor out of the dust, And lifts the needy out of the rubbish heap, That He may seat him with princes—With the princes of His people. He grants the barren woman a home, Like a joyful mother of children. Alleluia.
-		 </content>
+		<title>المزمور المائة والرابع عشر</title>
+		<content>أحببتُ أن يسمع الرب صوت تضرعي. لأنه أمال أذنه إليّ فأدعوه كل أيامي. لأن أوجاع الموت اكتنفتني وشدائد الجحيم أصابتني. ضيقا وحزنا وجدت، وباسم الرب دعوت: يا رب نج نفسي. الرب رحيم وصدّيق وإلهنا يرحم. الذي يحفظ الأطفالَ هو الرب. اتضعتُ فخلصني. ارجعي يا نفسي إلى موضع راحتكِ، لأن الرب قد أحسن إلى، وأنقذ نفسي من الموت وعيني من الدموع ورجلي من الزلل، أرضي الربَّ أمامه في كورة الأحياء. هلليلويا.
+		</content>
 	</prayer>
 	
 	<prayer>
-		<title>Psalm 116:1-9</title>
-		<content>I love the LORD, because He has heard My voice and my supplications. Because He has inclined His ear to me, Therefore I will call upon Him as long as I live. The pains of death encompassed me, And the pangs of Sheol laid hold of me; I found trouble and sorrow. Then I called upon the name of the LORD: “O LORD, I implore You, deliver my soul!” Gracious is the LORD, and righteous; Yes, our God is merciful. The LORD preserves the simple; I was brought low, and He saved me. Return to your rest, O my soul, For the LORD has dealt bountifully with you. For You have delivered my soul from death, My eyes from tears, And my feet from falling. I will walk before the LORD In the land of the living. Alleluia.
-		 </content>
+		<title> المزمور المائة والخامس عشر</title>
+		<content>آمنتُ لذلك تكلمتُ. وأنا اتضعت جدا. أنا قلت في حيرتي: إن كل الناس كاذبون. بماذا أكافئ الربَّ عن كل ما أعطانيه؟ كأس الخلاص آخذ وباسم الرب أدعو. أوفي نذوري للرب قدام كل شعبه.
+
+كريم أمام الرب موت قديسيه. يا رب أنا عبدُك، أنا عبدك وابنُ أمتك. قطّعتَ قيودي. فلك أذبح ذبيحة التسبيح، وباسم الرب أدعو. أوفي للرب نذوري في ديار بيت الرب، قدام كل شعبه، في وسط أورشليم. هلليلويا.</content>
 	</prayer>
 	
 	<prayer>
-		<title>Psalm 116:10-19</title>
-		<content>I believed, therefore I spoke, “I am greatly afflicted.” I said in my haste, “All men are liars.” What shall I render to the LORD For all His benefits toward me? I will take up the cup of salvation, And call upon the name of the LORD. I will pay my vows to the LORD Now in the presence of all His people. Precious in the sight of the LORD Is the death of His saints. O LORD, truly I am Your servant; I am Your servant, the son of Your maidservant; You have loosed my bonds. I will offer to You the sacrifice of thanksgiving, And will call upon the name of the LORD. I will pay my vows to the LORD Now in the presence of all His people, In the courts of the Lord’s house, In the midst of you, O Jerusalem. Alleluia.
-		 </content>
+		<title>(إنجيل لوقا9: 10-17)</title>
+		<content>ولما رجع الرسل حدثوه بما فعلوا. فأخذهم معه ودخل على انفرادٍ مدينة تسمى بيتَ صيدا. فلما علمت الجموع تبعوه فقبلهم وخاطبهم عن ملكوت الله، والمحتاجون إلى الشفاء شفاهم. وكان النهار قد بدأ يميل فتقدم إليه الاثنا عشر وقالوا له: اصرف الجموع ليذهبوا إلى القرى المحيطة والحقول، ليستريحوا ويجدوا ما يأكلونه، فإننا ههنا في موضع قفر. فقال لهم: أعطوهم أنتم ليأكلوا. فقالوا: ليس عندنا أكثر من خمس خبزات وسمكتين، إلا أن نمضي نحن ونشتري أطعمة لهذا الشعب جميعه. وكانوا نحو خمسة آلاف رجل. فقال لتلاميذه: ليتكئوا في كل موضع خمسين خمسين. ففعلوا هكذا وأتكأوهم أجمعين. فأخذ الخمسَ خبزاتٍ والسمكتين، ونظر إلى السماء، وباركها وقسمها، وأعطى التلاميذ ليضعوا أمام الجموع. فأكلوا جميعهم وشبعوا. ثم رفعوا ما فضل عنهم اثنتي عشرة قفة مملوءة. (والمجد لله دائما)
+		</content>
 	</prayer>
 	
 	<prayer>
-		<title>The Gospel</title>
-		<content>A chapter from the Holy Gospel according to St. Luke may his blessings be with us all. Amen. And the apostles, when they had returned, told Him all that they had done. And He took them and went aside privately into a deserted place belonging to the city called Bethsaida. But when the multitudes knew it, they followed Him; and He received them and spoke to them about the kingdom of God, and healed those who had need of healing. When the day began to wear away, the twelve came and said to Him, “Send the multitude away, that they may go into the surrounding towns and country, and lodge and get provisions; for we are in a deserted place here.” But He said to them, “You give them something to eat.” And they said, “We have no more than five loaves and two fish, unless we go and buy food for all these people.” For there were about five thousand men. And He said to His disciples, “Make them sit down in groups of fifty.” And they did so, and made them all sit down. Then He took the five loaves and the two fish, and looking up to heaven, He blessed and broke them, and gave them to the disciples to set before the multitude. So they all ate and were filled, and twelve baskets of the leftover fragments were taken up by them. Glory be to God forever. Amen.
-		 </content>
-	</prayer>
-	
-	<prayer>
-		<title>The Parts</title>
-		<content>O’ Lord who tasted death in the flesh at the ninth hour for our sake, we the sinners; mortify our carnal senses, O’ Christ our God, and deliver us. Let my supplication draw near You, O’ Lord. Give me understanding, according to Your wisdom. Let my request reach Your presence and give me life through Your word. Thok-sa-patri Ke ey-you Ke agiyou epnevmaty. At the ninth hour You surrendered Your soul to the hands of the Father, after being hanged on the cross. You guided the thief to join You in paradise, do soul, enlighten my mind and let me partake of the grace of Your sacraments so that when I taste Your goodness, I offer You praise unceasingly, longing for Your light above all things O’ Christ our Lord, save us. Ke-neen Ke-a-ee Ke-is-touse E-onas ton E-onon. Amen. You were born of the virgin, for our sake and endured crucifixion, O’ Righteous Lord, with Your death You defeated death, with Your resurrection You made eternal life manifest. Do not turn Your face from those whom You made by Your hands. Show Your love to mankind O’ Good Lord. Accept the supplications of Your virgin mother on our behalf. O’ Saviour, spare Your humble people and do not let us perish, do not revoke Your promise and do not deprive us of Your mercy for the sake of Your beloved Abraham, your servant Issac and Israel Your saint. Ke-neen Ke-a-ee Ke-is-touse E-onas ton Eonon. Amen. When the thief saw the giver of life hanging on the cross, he said; “Had not the one crucified with us being the incarnate God, the sun would not have hidden its light, nor would the earth have quaked in fear. Remember me Almighty Lord when You come into Your Kingdom”. Thok-sa-patri Ke ey-you Keagiyou ep-nevmaty. O’ Righteous Lord who received the confession of the thief on the cross, accept us who deserve the judgement of death because of our sins. We join him in acknowledging our sins and in confessing Your divinity saying: “Lord remember us when You come into Your Kingdom”. Ke-neen Ke-a-ee Ke-is-touse E-onas ton E-onon. Amen. When the mother saw the Lamb, the Shepherd and Saviour of the world hanging on the cross, she wept and said: “The world rejoices at the acceptance of salvation, but my heart burns when I look at your crucifixion which You endured for the sake of all; O’ My Son and My God”. Lord have mercy (Kir-ye ley-son) 41 times.
-		 </content>
+		<title>القطع</title>
+		<content>¨   يا من ذاق الموت بالجسد في وقت الساعة التاسعة من أجلنا نحن الخطاة، أمت حواسنا الجسمانية أيها المسيح إلهنا ونجنا. فلتدنُ وسيلتي قدامك يا رب، كقولك فهمني. لتدخل طلبتي إلى حضرتك، ككلمتك أحيني (ذوكصابتري..)
+¨   يا من أسلم الروحَ في يدي الآب عندما علقت على الصليب وقت الساعة التاسعة، وهديتَ اللصَّ المصلوبَ معك للدخول إلى الفردوس، لا تغفل عني أيها الصالح ولا ترذلني أنا الضال، بل قدس نفسي وأضئ فهمي واجعلني شريكا لنعمة أسرارك المحيية. لكي ما إذا ذقت من إحساناتك، أقدم لك تسبحة بغير فتور، مشتاقا إلى بهائك أفضل من كل شئ، أيها المسيح إلهنا ونجنا (كىنين… ).
+¨   يا من ولدت من البتول من أجلنا، واحتملت الصلب أيها الصالح وقتلت الموت بموتك وأظهرت القيامة بقيامتك، لا تعرض يا الله عن الذين جبلتهم بيديك. أظهر محبتك للبشر أيها الصالح. اقبل من والدتك شفاعة من أجلنا. نج يا مخلص شعبا متواضعا. لا تتركنا إلى الانقضاء ولا تسلمنا إلى الدهر، ولا تنقض عهدك ولا تنزع عنا رحمتك، من أجل إبراهيمَ حبيبِك واسحقَ عبدِك وإسرائيلَ قديسِك. (كىنين..).
+¨   لما أبصر اللص رئيس الحياة على الصليب معلقا، قال: لولا أن المصلوبَ معنا إلهٌ متجسد، ما كانت الشمس أخفت شعاعها ولا الأرض ماجت مرتعدة. لكن أيها القادر على كل شئ، والمحتمل كل شئ، اذكرني يا رب متى جئتَ في ملكوتك (ذوكصابتري..).
+¨   يا من قبل إليه اعتراف اللص على الصليب، اقبلنا إليك أيها الصالح. نحن المستوجبين حكم الموت من أجل خطايانا. نقر بخطايانا معه معترفين بألوهيتك، ونصرخ معه جميعا: اذكرنا يا رب متى جئتَ في ملكوتك (كىنين … ).
+¨   عندما نظرت الوالدة الحمل والراعي مخلص العالم على الصليب معلقا قالت وهي باكية: أما العالم فيفرح لقبوله الخلاص، وأما أحشائي فتلتهب عند نظري إلى صلبوتك الذي أنت صابر عليه من أجل الكل، يا ابني والهي.
+ 
+
+كيريي ليسون41 مرة
+		</content>
 	</prayer>
 	
 	<prayer> 
@@ -173,9 +196,11 @@
 	</prayer>
 	
 	<prayer>
-		<title>The Absolution</title>
-		<content>O’ God, the Father of our Lord, God and Saviour Jesus Christ, who through His appearance You saved us from slavery of the enemy. We ask You, in His blessed and glorious name, to raise our minds above worldly care and bodily desires to the remembrance of Your heavenly commandments. Fulfil Your love to humanity O’ God. Receive our prayers at all times and this prayer of the ninth hour. Grant us to be worthy of Your calling and when we are released from this body, may we be counted among those who kneel before Your throne and are worthy of the sufferings of Your Only Begotten Son, our Lord Jesus Christ. Grant us Your mercy, forgive us our sins and save us with the hosts of saints who sincerely pleased You ever since the beginning. Lord cast away from us the power of the adversary and his evil hosts who were trodden by the power of the cross of Your Only Begotten Son. Accept us O’ Lord Jesus Christ as You accepted the thief on the cross. Shine unto us the light which You gave to those who were in the darkness of Hades. Restore us all to paradise for You are blessed together with Your Father and the Holy Spirit, and worthy of glory, honour, might and obedience now and forever. Amen.
-		 </content>
+		<title>التحليل</title>
+		<content>يا الله الآب أبو ربنا وإلهنا ومخلصنا يسوع المسيح هذا الذي بظهوره خلصتنا وأنقذتنا من عبودية العدو. نسألك باسمه المبارك العظيم أنقل عقولنا من الاهتمام العالمي والشهوات الجسدية، إلى تذكار أحكامك السمائية وكمل لنا محبتك للبشر أيها الصالح. ولتكن صلواتنا كل حين وصلاة هذه الساعة التاسعة مقبولة أمامك. وامنحنا أن نسلك كما يليق بالدعوة التي دعينا إليها. لكي إذا خرجنا من هذا الجسد نحسب مع الساجدين المستحقين لآلام ابنك الوحيد يسوع المسيح ربنا، ونظفر بالرحمة وغفران خطايانا والخلاص مع مصاف القديسين الذين أرضَوك بالحقيقة منذ الدهر والي الأبد.
+
+اللهم أبطل عنا كل قوة المعاند وجميع جنوده الرديئة، كما داسهم ابنك الوحيد بقوة صليبه المحيي. واقبلنا إليك يا سيدي يسوع المسيح كما قبلت اللص اليمين وأنت معلق على عود الصليب. وأنر علينا كما أنرت على الذين كانوا في ظلمة الجحيم. وردنا جميعا إلى فردوس النعيم لأنك يا سيدي إله مبارك. وينبغي لك مع أبيك الصالح والروح القدس، المجد والإكرام والعزة والسلطان والسجود إلى الأبد أمين.
+		</content>
 	</prayer>
 	
 	<prayer> 
