@@ -1,16 +1,6 @@
 <hour> 
 	<info><hourName>The Midnight Prayers</hourName></info>
 	<info><description>Instituted to commemorate the three times our Saviour Jesus Christ prayed in Gethsemane during His affliction on the Holy Week.</description></info>
-	
-	<prayer>
-        <title>Introductory Prayer</title>
-        <content>† In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.
-            
-† Lord have mercy, Lord have mercy, Lord bless us. Amen.
-            
-† Glory be to the Father, and to the Son, and to the Holy Spirit, now and forever and ever. Amen.
-		</content>
-    </prayer>
     
     <prayer>
         <title>The Lord's Prayer</title>
