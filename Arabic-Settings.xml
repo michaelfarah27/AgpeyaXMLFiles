@@ -1,4 +1,14 @@
 <settings>
+    
+    <setting><option>Theme Color</option></setting>
+    <setting><option>Font Type</option></setting>
+    <setting><option>Font Size</option></setting>
+    <setting><option>Text Align</option></setting>
+    <setting><option>Autorotation</option></setting>
+    <setting><option>Page Swipes</option></setting>
+    <setting><option>Background Image</option></setting>
+    <setting><option>Restore Default Settings</option></setting>
+
     <language><name>English</name></language>
     <language><name>Arabic</name></language>
 
@@ -16,15 +26,7 @@
     <font><name>Futura-Medium</name></font>
     <font><name>Thonburi</name></font>
 
-    <setting><option>Navigation Bar Color</option></setting>
-    <setting><option>Font Type</option></setting>
-    <setting><option>Font Size</option></setting>
-    <setting><option>Text Align</option></setting>
-    <setting><option>Autorotation</option></setting>
-    <setting><option>Page Swipes</option></setting>
-    <setting><option>Background Image</option></setting>
-    <setting><option>Restore Default Settings</option></setting>
-
+  
     <color>
         <name>Blue</name>
         <value>#0065b7</value>
