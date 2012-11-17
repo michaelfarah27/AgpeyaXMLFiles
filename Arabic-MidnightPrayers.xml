@@ -360,17 +360,27 @@
 
 	<prayer>
         <title>القطع</title>
-        <content>¨   ها هو ذا العريس يأتي في نصف الليل، طوبى للعبد الذي يجده مستيقظا. أما الذي يجده متغافلا، فإنه غير مستحق المضي معه. فانظري يا نفسي لئلا تثقلي نوما، فتلقي خارج الملكوت. بل اسهري واصرخي قائلة: قدوس قدوس قدوس أنت يا الله، من أجل والدة الإله ارحمنا (ذوكصابترى).
+        <content>¨   ها هو ذا العريس يأتي في نصف الليل، طوبى للعبد الذي يجده مستيقظا. أما الذي يجده
+متغافلا، فإنه غير مستحق المضي معه. فانظري يا نفسي لئلا تثقلي نوما، فتلقي خارج الملكوت. بل اسهري
+واصرخي قائلة: قدوس قدوس قدوس أنت يا الله، من أجل والدة الإله ارحمنا (ذوكصابترى).
 
-¨   تفهمي يا نفسي ذلك اليومَ الرهيب واستيقظي، وأضيئي مصباحك بزيت البهجة. لأنك لا تعلمين متى يأتي نحوك الصوت القائل: ها هو ذا العريس قد أقبل. فانظري يا نفسي لا تنعسي، لئلا تقفي خارجا قارعة مثل الخمس العذارى الجاهلات، بل اسهري متضرعة لكي تلتقي المسيح الرب بدهن دسم، وينعم عليك بعرس مجده الإلهي الحقيقي (كي نين).
+¨   تفهمي يا نفسي ذلك اليومَ الرهيب واستيقظي، وأضيئي مصباحك بزيت البهجة. لأنك لا تعلمين متى يأتي
+نحوك الصوت القائل: ها هو ذا العريس قد أقبل. فانظري يا نفسي لا تنعسي، لئلا تقفي خارجا قارعة مثل الخمس
+العذارى الجاهلات، بل اسهري متضرعة لكي تلتقي المسيح الرب بدهن دسم، وينعم عليك بعرس مجده الإلهي
+الحقيقي (كي نين).
 
-¨   أنت هي سور خلاصنا يا والدة الإله العذراء الحصن المنيع غير المنثلم أبطلي مشورة المعاندين، وحزن عبيدك رديه إلى فرح وحصني مدينتنا (ديرنا) وعن ملوكنا (رؤسائنا) حاربي، وتشفعي عن سلام العالم، لأنك أنت هي رجاؤنا يا والدة الإله (كي نين).
+¨   أنت هي سور خلاصنا يا والدة الإله العذراء الحصن المنيع غير المنثلم أبطلي مشورة المعاندين، وحزن
+عبيدك رديه إلى فرح وحصني مدينتنا (ديرنا) وعن ملوكنا (رؤسائنا) حاربي، وتشفعي عن سلام العالم، لأنك أنت
+هي رجاؤنا يا والدة الإله (كي نين).
 
-¨   أيها الملك السمائي المعزى، روح الحق، الحاضر في كل مكان والمالئ الكل، كنز الصالحات، ومعطى الحياة، هلم تفضل وحل فينا، وطهرنا من كل دنس أيها الصالح، وخلص نفوسنا. (ذوكصابترى … ).
+¨   أيها الملك السمائي المعزى، روح الحق، الحاضر في كل مكان والمالئ الكل، كنز الصالحات، ومعطى الحياة،
+هلم تفضل وحل فينا، وطهرنا من كل دنس أيها الصالح، وخلص نفوسنا. (ذوكصابترى … ).
 
-¨   كما كنت مع تلاميذك أيها المخلص  وأعطيتهم السلام، هلم أيضا كن معنا وامنحنا سلامك وخلصنا ونج نفوسنا. (كى نين.. )
+¨   كما كنت مع تلاميذك أيها المخلص  وأعطيتهم السلام، هلم أيضا كن معنا وامنحنا سلامك وخلصنا ونج
+نفوسنا. (كى نين.. )
 
-¨        إذا ما وقفنا في هيكلك المقدس نحسب كالقيام في السماء. يا والدة الإله، أنت هي باب السماء، افتحي لنا باب الرحمة.
+¨        إذا ما وقفنا في هيكلك المقدس نحسب كالقيام في السماء. يا والدة الإله، أنت هي باب السماء،
+افتحي لنا باب الرحمة.
 
 كيري ليسون41 مرة
         </content>
@@ -392,165 +402,144 @@
 	</prayer>
 
 
-    <prayer>
-        <title>Psalm 120</title>
-        <content>In my distress I cried to the LORD, And He heard me. Deliver my soul, O LORD, from
-lying lips And from a deceitful tongue. What shall be given to you, Or what shall be done to you,
-You false tongue? Sharp arrows of the warrior, With coals of the broom tree! Woe is me, that I
-sojourn in Meshech, That I dwell among the tents of Kedar! My soul has dwelt too long With one who
-hates peace. I am for peace; But when I speak, they are for war. Alleluia.
-        </content>
+   <prayer>
+		<title> المزمور المائة والتاسع عشر</title>
+		<content>إليك يا رب صرخت في حزني فاستجبت لي. يا رب نج نفسي من الشفاه الظالمة ومن اللسان
+الغاش. ماذا تعطى وماذا تزاد من اللسان الغاش. سهام الأقوياء مرهفة مع جمر البرية. ويل لي فإن غربتي قد
+طالت عليّ، وسكنت في مساكن قيدار. طويلا سكنتْ نفسي في الغربة، ومع مبغضي السلام كنت صاحب سلام، وحين
+كنت أكلمهم كانوا يقاتلونني باطلا هلليلويا.
+		</content>
     </prayer>
     
-    <prayer>
-        <title>Psalm 121</title>
-        <content>I will lift up my eyes to the hills—From whence comes my help? My help comes from
-the LORD, Who made heaven and earth. He will not allow your foot to be moved; He who keeps you will
-not slumber. Behold, He who keeps Israel Shall neither slumber nor sleep. The LORD is your keeper;
-The LORD is your shade at your right hand. The sun shall not strike you by day, Nor the moon by
-night. The LORD shall preserve you from all evil; He shall preserve your soul. The LORD shall
-preserve your going out and your coming in From this time forth, and even forevermore. Alleluia.
-        </content>
+	<prayer>
+		<title> المزمور المائة والعشرون</title>
+		<content>رفعت عيني إلى الجبال، من حيث يأتي عوني. معونتي من عند الرب الذي صنع السماء والأرض.
+لا يسلم رجلك للزلل، فما ينعس حافظك. هوذا لا ينعس ولا ينام حارس إسرائيل. الرب يحفظك. الرب يظلل على
+يدك اليمنى، فلا تحرقك الشمس بالنهار ولا القمر بالليل. الرب يحفظك من كل سوء. الرب يحفظ نفسك. الرب
+يحفظ دخولك وخروجك، من الآن والي الأبد هلليلويا.
+		</content>
     </prayer>
     
      <prayer>
-        <title>Psalm 122</title>
-        <content>I was glad when they said to me, “Let us go into the house of the LORD.” Our feet
-have been standing Within your gates, O Jerusalem! Jerusalem is built As a city that is compact
-together, Where the tribes go up, The tribes of the LORD, To the Testimony of Israel, To give thanks
-to the name of the LORD. For thrones are set there for judgment, The thrones of the house of David.
-Pray for the peace of Jerusalem: “May they prosper who love you. Peace be within your walls,
-Prosperity within your palaces.” For the sake of my brethren and companions, I will now say, “Peace
-be within you.” Because of the house of the LORD our God I will seek your good. Alleluia.
-        </content>
-    </prayer>
+		<title>المزمور المائة والحادي والعشرون</title>
+		<content>فرحت بالقائلين لي إلى بيت الرب نذهب. وقفت أرجلنا في ديار أورشليم، أورشليم المبنية
+مثل مدينة متصلة بعضها ببعض. لأن هناك صعدت القبائل، قبائل الرب، شهادة لإسرائيل، يعترفون لاسم الرب.
+هناك نصبت كراسي للقضاء كراسي بيت داود.
+
+اسألوا السلام لأورشليم والخصبَ لمحبيك. ليكن السلام في حصنك والخصب في أبراجك الرصينة. من أجل اخوتي
+وأقربائي تكلمت من أجلك بالسلام، ومن أجل بيت الرب إلهنا التمست لك الخيرات هلليلويا.
+		</content>
+	</prayer>
     
     <prayer>
-        <title>Psalm 123</title>
-        <content>Unto You I lift up my eyes, O You who dwell in the heavens. Behold, as the eyes of
-servants look to the hand of their masters, As the eyes of a maid to the hand of her mistress, So
-our eyes look to the LORD our God, Until He has mercy on us. Have mercy on us, O LORD, have mercy on
-us! For we are exceedingly filled with contempt. Our soul is exceedingly filled with the scorn of
-those who are at ease. With the contempt of the proud. Alleluia.
-        </content>
+        <title> المزمور المائة والثاني والعشرون</title>
+		<content>إليك رفعت عينيّ يا ساكن السماء. فها هما مثل عيون العبيد إلى أيدي مواليهم، ومثل عيني
+الأمة إلى يدي سيدتها. كذلك أعيننا نحو الرب إلهنا حتى يتراءف علينا. ارحمنا يا رب ارحمنا، فإننا كثيرا
+ما امتلأنا هوانا، وكثيرا ما امتلأت نفوسنا العار اردده على المخصبين والهوان على المتعظمين هلليلويا.
+		</content>
     </prayer>
     
 
     <prayer>
-        <title>Psalm 124</title>
-        <content>“If it had not been the LORD who was on our side,” Let Israel now say— “If it had
-not been the LORD who was on our side, When men rose up against us, Then they would have swallowed
-us alive, When their wrath was kindled against us; Then the waters would have overwhelmed us, The
-stream would have gone over our soul; Then the swollen waters Would have gone over our soul.”
-Blessed be the LORD, Who has not given us as prey to their teeth. Our soul has escaped as a bird
-from the snare of the fowlers; The snare is broken, and we have escaped. Our help is in thename of
-the LORD, Who made heaven and earth. Alleluia.
-        </content>
+        <title> المزمور المائة والثالث والعشرون</title>
+		<content>لولا أن الربَّ كان معنا ـ ليقل إسرائيل ـ لولا أن الرب كان معنا عندما قام الناس
+علينا، لابتلعونا ونحن أحياء، عند سخط غضبهم علينا. إذا لغرقنا في الماء وعبرت نفوسنا السيل، بل جازت
+نفوسنا الماء الذي لا نهاية له. مبارك الرب الذي لم يسلمنا فريسة لأسنانهم. نجت أنفسنا مثل العصفور من
+فخ الصيادين، الفخ انكسر ونحن نجونا، عوننا باسم الرب الذي صنع السماء والأرض هلليلويا.
+		</content>
+	</prayer>
+    
+    <prayer>
+		<title> المزمور المائة والرابع والعشرون</title>
+		<content>المتوكلون على الرب مثل جبل صهيون لا يتزعزع إلى الأبد، الساكن في أورشليم. الجبال
+حولها، والرب حول شعبه من الآن والى الأبد. الرب لا يترك عصا الخطاة تستقر على نصيب الصديقين، لكي لا
+يمد الصديقون أيديهم إلى الإثم.
+
+أحسن يا رب إلى الصالحين والى المستقيمي القلوب. أما الذين يميلون إلى العثرات فينزعهم الرب مع فعلة
+الإثم. والسلام على إسرائيل هلليلويا.
+		</content>
     </prayer>
     
     <prayer>
-        <title>Psalm 125</title>
-        <content>Those who trust in the LORD Are like Mount Zion, Which cannot be moved, but abides
-forever. As the mountains surround Jerusalem, So the LORD surrounds His people From this time forth
-and forever. For the sceptre of wickedness shall not rest On the land allotted to the righteous,
-Lest the righteous reach out their hands to iniquity. Do good, O LORD, to those who are good, And to
-those who are upright in their hearts. As for such as turn aside to their crooked ways, The LORD
-shall lead them away With the workers of iniquity. Peace be upon Israel. Alleluia.
-        </content>
+		<title>المزمور المائة والخامس والعشرون</title>
+		<content>إذا ما رد الرب سبي صهيون صرنا فرحين. حينئذ امتلأ فمنا فرحا ولساننا تهليلا. حينئذ
+يقال في الأمم إن الرب قد عظم الصنيع معهم. عظم الرب الصنيع معنا فصرنا فرحين. اردد يا رب سبينا مثل
+السيول في الجنوب. الذين يزرعون بالدموع يحصدون بالابتهاج. سيرا كانوا يسيرون وهم باكون حاملين بذارهم،
+ويعودون بالفرح حاملين أغمارهم هلليلويا.
+		</content>
     </prayer>
     
     <prayer>
-        <title>Psalm 126</title>
-        <content>When the LORD brought back the captivity of Zion, We were like those who dream.
-Then our mouth was filled with laughter, And our tongue with singing. Then they said among the
-nations, “The LORD has done great
-things for them.” The LORD has done great things for us, Whereof we are
-glad. Bring back our captivity, O LORD, As the streams in the South.
-Those who sow in tears Shall reap in joy. He who continually goes forth
-weeping, Bearing seed for sowing, Shall doubtless come again with
-rejoicing, Bringing his sheaves with him. Alleluia.
-        </content>
+		<title>المزمور المائة والسادس والعشرون</title>
+		<content>إن لم يبن الرب البيتَ فباطلا تعب البناءون، وإن لم يحرس الرب المدينة فباطلا سهر
+الحراس. باطل هو لكم التبكير. انهضوا من بعد جلوسكم يا آكلي الخبز بالهموم، فإنه يمنح أحباءه نوما.
+
+البنون ميراث من الرب أجرة ثمرة البطن. كالسهام بيد القوي كذلك أبناء المتيقظين. مغبوط هو الرجل الذي
+يملا جعبته منهم. حينئذ لا يخزون إذا كلموا أعداءهم في الأبواب هلليلويا.</content>
     </prayer>
     
     <prayer>
-        <title>Psalm 127</title>
-        <content>Unless the LORD builds the house, They labour in vain who build it; Unless the LORD
-guards the city, The watchman stays awake in vain. It is vain for you to rise up early, To sit up
-late, To eat the bread of sorrows; For so He gives His beloved sleep. Behold, children are a
-heritage from the LORD, The fruit of the womb is His reward. Like arrows in the hand of a warrior,
-So are the children of one’s youth. Happy is the man who has his quiver full of them; They shall not
-be ashamed, But shall speak with their enemies in the gate. Alleluia.
-        </content>
-    </prayer>
-    
-    <prayer>
-        <title>Psalm 128</title>
-        <content>Blessed is every one who fears the LORD, Who walks in His ways. When you eat the
-labour of your hands, You shall be happy, and it shall be well with you. Your wife shall be like a
-fruitful vine In the very heart of your house, Your children like olive plants All around your
-table. Behold, thus shall the man be blessed Who fears the LORD. The LORD bless you out of Zion, And
-may you see the good of Jerusalem All the days of your life. Yes, may you see your children’s
-children. Peace be upon Israel! Alleluia.
-        </content>
+		<title> المزمور المائة والسابع والعشرون</title>
+		<content>طوبى لجميع الذين يتقون الرب السالكين في طرقه. تأكل من ثمرة أتعابك تصير مغبوطا ويكون
+لك الخير. امرأتك تصير مثلَ كرمة مخصبة في جوانب بيتك. بنوك مثل غروس الزيتون الجدد حول مائدتك. هكذا
+يُبارَك الإنسان المتقي الربَّ. يباركك الرب من صهيون، وتبصر خيرات أورشليم جميع أيام حياتك، وترى بني
+بنيك، والسلام على إسرائيل. هلليلويا.
+		</content>
     </prayer>
   
    <prayer>
-        <title>Psalm 129</title>
-        <content>“Many a time they have afflicted me from my youth,” Let Israel now say— “Many a
-time they have afflicted me from my youth; Yet they have not prevailed against me. The plowers
-plowed on my back; They made their furrows long.” The LORD is righteous; He has cut in pieces the
-cords of the wicked. Let all those who hate Zion Be put to shame and turned back. Let them be as the
-grass on the housetops, Which withers before it grows up, With which the reaper does not fill his
-hand, Nor he who binds sheaves, his arms. Neither let those who pass by them say, “The blessing of
-the LORD be upon you; We bless you in the name of the LORD!” Alleluia.
-        </content>
+		<title> المزمور المائة والثامن والعشرون</title>
+		<content>مرارا كثيرة حاربوني منذ صباي ـ ليقل إسرائيل ـ مرارا كثيرة قاتلوني منذ شبابي، وإنهم
+لم يقدروا علي. على ظهري جلدني الخطاة وأطالوا إثمهم. الرب صدّيق هو، يقطع أعناق الخطاة. فليخز وليرتد
+إلى الوراء كل الذين يبغضون صهيون، وليكونوا مثل عشب السطوح الذي ييبَس قبل أن يقطع، الذي لم يملأ
+الحاصد منه يده، ولا الذي يجمع الغمورَ حضنه. ولم يقلْ المجتازون إن بركة الرب عليكم. باركناكم باسم
+الرب هلليلويا.
+		</content>
     </prayer>
     
      <prayer>
-        <title>The Gospel (Luke 7:36-50)</title>
-        <content>A chapter from the Holy Gospel according to St. Luke may his blessings be with us
-all. Amen. Then one of the Pharisees asked Him to eat with him. And He went to the Pharisee’s house,
-and sat down to eat. And behold, a woman in the city who was a sinner, when she knew that Jesus sat
-at the table in the Pharisee’s house, brought an alabaster flask of fragrant oil, and stood at His
-feet behind Him weeping; and she began to wash His feet with her tears, and wiped them with the hair
-of her head; and she kissed His feet and anointed them with the fragrant oil. Now when the Pharisee
-who had invited Him saw this, he spoke to himself, saying, “This man, if He were a prophet, would
-know who and what manner of woman this is who is touching Him, for she is a sinner.” And Jesus
-answered and said to him, “Simon, I have something to say to you.” And he said, “Teacher, say it.”
-“There was a certain creditor who had two debtors. One owed five hundred denarii, and the other
-fifty. “And when they had nothing with which to repay, he freely forgave them both. Tell Me,
-therefore, which of them will love him more?” Simon answered and said, “I suppose the one whom he
-forgave more.” And He said to him, “You	have rightly judged.” Then He turned to the woman and
-said to Simon, “Do you see this woman? I entered your house; you gave Me no water for My feet, but
-she has washed My feet with her tears and wiped them with the hair of her head. “You gave Me no
-kiss, but this woman has not ceased to kiss My feet since the time I came in. “You did not anoint My
-head with oil, but this woman has anointed My feet with fragrant oil. “Therefore I say to you, her
-sins, which are	many, are forgiven, for she loved much. But to whom little is forgiven, the same
-loves little.” And He said to her, “Your sins are forgiven.” And those who sat at the table with Him
-began to say to themselves, “Who is this who even forgives sins?” Then He said to the woman, “Your
-faith has saved you. Go in peace.’ Glory be to God forever. Amen.
+        <title>(إنجيل لوقا7: 36-50)</title>
+        <content>ثم سأله أحد الفريسيين أن يأكل معه. فلما دخل بيت الفريسي اتكأ. وإذا امرأة في المدينة
+كانت خاطئة. فلما علمتْ أنه متكئ في بيت الفريسي، أخذت قارورة طيب ووقفتْ من ورائه عند رجليه باكية،
+وبدأت تبل قدميه بدموعها وتمسحهما بشعر رأسها، وكانت تقبل قدميه وتدهنهما بالطيب. فلما رأى الفريسي الذي
+دعاه ذلك قال محدثا نفسه: لو كان هذا نبيا لعلم من هي هذه المرأة التي لمسته، وما حالها، إنها خاطئة.
+فأجاب يسوع وقال له: يا سمعان عندي كلمة أقولها لك. فقال: قل يا معلم. قال: كان لدائن مدينان على الواحد
+خمسمائة دينار وعلى الآخر خمسون، وإذ لم يكن لهما ما يوفيان سامحهما كليهما. فمن منهما يحبه أكثر؟ أجاب
+سمعان وقال: أظنُّ الذي سامحه بالأكثر. فقال له: بالصواب حكمتَ. ثم التفت إلى المرأة وقال لسمعان: أترى
+هذه المرأة؟ دخلتُ بيتك وماء لرجلي لم تعطِ، أما هي فقد غسلتْ بالدموع رجلي ومسحتهما بشعرها. لم تقبل
+فمي، أما هي فمنذ دخلتُ بيتك لم تكف عن تقبيل قدمي. بزيت لم تدهن رأسي، أما هي فقد دهنت بالطيب قدمي. من
+أجل ذلك أقول لك إن خطاياها الكثيرة مغفورة لها، لأنها أحبت كثيرا. والذي يغفر له قليل يحب قليلا. ثم
+قال لها: مغفورة لك خطاياك. فبدأ المتكئون يقولون في نفوسهم: من هو هذا الآخر الذي يغفر الخطايا؟! فقال
+للمرأة: إن إيمانك قد خلصكِ، فاذهبي بسلام (والمجد لله دائما.)
         </content>
     </prayer>
     
       <prayer>
-            <title>The Parts</title>
-            <content>Give me, Lord, fountains of many tears as You did in the past to the sinful
-woman. Make me worthy to shed my tears on Your feet which took me to the right path and offer You
-the best of perfumes. Grant me to live pure and repentant, so that I can hear a joyful voice: “Your
-faith has saved you’. Thok-sa-patri Keey-you Ke agiyou ep-nevmaty. When I am conscious of my sins,
-and when I think of Your judgement, I fear and tremble and run to You, O’ God, do not turn away my
-supplications. My undefiled Lord, have mercy upon me. Ke-neen Kea-ee Ke-is-touse E-onas ton E-onon.
-Amen. Heavens bless You, O full of grace, the ever Virgin Bride. We glorify Your immaculate birth of
-Jesus Christ which is beyond our comprehension. O’Mother of God, Mother of mercy and salvation,
-plead for the redemption of our souls. Ke-neen Kea-ee Ke-is-touse E-onas ton E-onon. Amen. O’
-Heavenly King, the Spirit of truth, the comforter,	who is every where and fills everybody.
-You	are the treasure of goodness and giver of life, we ask You to graciously come and dwell with
-in us, purify us from iniquity and save our souls. Thok-sa-patri Ke ey-you Ke agiyou ep-nevmaty.
-Lord, abide with us as You did with the apostles, when You gave them Your peace, we ask You to grant
-us Your peace, our Saviour; save us and spare our souls. Ke-neen Ke-a-ee Ke-is-touse E-onas ton
-E-onon. Amen. Whenever we stand in Your Holy Temple, we are considered as those who abide in heaven.
-O’ Mother of God, you are the gate of heaven, open to us the door of mercy. Lord have mercy (Kir-ye
-ley-son) 41 times.
+            <title>القطع</title>
+            <content>¨   أعطني يا رب ينابيع دموع كثيرة، كما أعطيت منذ القديم للمرأة الخاطئة. واجعلني
+مستحقا أن أبل قدميك اللتين أعتقتاني من طريق الضلالة. وأقدم لك طيبا فائقا، وأقتني لي عمرا نقيا
+بالتوبة. لكي أسمع أنا ذلك الصوت الممتلئ فرحا: إن إيمانك خلصك (ذوكصابتري..).
+
+¨   إذا ما تفطنت في كثرة أعمالي الرديئة ويأتي على قلبي فكر تلك الدينونة الرهيبة تأخذني رعدة، فأهرب
+إليك يا الله محب البشر. فلا تصرف وجهك عني، متضرعا إليك يا من أنت وحدك بلا خطية، أنعم على نفسي
+المسكينة بتخشع قبل أن يأتي الانقضاء وخلصني (كى نين..)
+
+¨   السموات تطوبك أيتها الممتلئة نعمة، العروس التي بلا زواج. ونحن أيضا نمجد ميلادك غير المدرك. يا
+والدة الإله يا أم الرحمة والخلاص، تشفعي من أجل خلاص نفوسنا (كي نين..)
+
+¨   أيها الملك السمائي المعزى، روح الحق، الحاضر في كل مكان والمالئ الكل، كنز الصالحات، ومعطى الحياة،
+هلم تفضل وحل فينا، وطهرنا من كل دنس أيها الصالح، وخلص نفوسنا. (ذوكصابترى … ).
+
+¨   كما كنت مع تلاميذك أيها المخلص  وأعطيتهم السلام، هلم أيضا كن معنا وامنحنا سلامك وخلصنا ونج
+نفوسنا. (كى نين.. )
+
+إذا ما وقفنا في هيكلك المقدس نحسب كالقيام في السماء. يا والدة الإله، أنت هي باب السماء، افتحي لنا
+باب الرحمة.
+
+
+
+كيري ليسون41 مرة
+
             </content>
     </prayer>
     
@@ -570,243 +559,172 @@ ley-son) 41 times.
 	</prayer>
 
     <prayer>
-		<title>Psalm 130</title>
-		<content>Out of the depths I have cried to You, O LORD; LORD, hear my voice! Let Your ears
-be attentive To the voice of my supplications. If You, LORD, should mark iniquities, O Lord, who
-could stand? But there is forgiveness with You, That You may be feared. I wait for the LORD, my soul
-waits, And in His word I do hope. My soul waits for the Lord More than those who watch for the
-morning—I say, more than those who watch for the morning. O Israel, hope in the LORD; For with the
-LORD there is mercy, And with Him is abundant redemption. And He shall redeem Israel From all his
-iniquities. Alleluia.
+		<title> المزمور المائة والتاسع والعشرون</title>
+		<content>من الأعماق صرخت إليك يا رب، يا رب استمع صوتي. لتكن أذناك مصغيتين إلى صوت تضرعي. إن
+كنت للآثام راصدا يا رب، يا رب من يثبت لأن من عندك المغفرة. من أجل اسمك صبرْتُ لك يا رب، صبرَتْ نفسي
+لناموسك. انتظرت نفسي الرب من محرس الصبح إلى الليل. من محرس الصبح فلينتظر إسرائيل الرب. لأن الرحمة من
+عند الرب. عظيم هو خلاصه وهو يفتدي إسرائيل من كل آثامه هلليلويا.
 		 </content>
 	</prayer>
 	
-    <prayer>
-        <title>Psalm 131</title>
-        <content>LORD, my heart is not haughty, Nor my eyes lofty. Neither do I concern myself with
-great matters, Nor with things too profound for me. Surely I have calmed and quieted my soul, Like a
-weaned child with his mother; Like a weaned child is my soul within me. O Israel, hope in the LORD
-From this time forth and forever. Alleluia.
-         </content>
-    </prayer>
-    
-    <prayer>
-        <title>Psalm 132</title>
-        <content>LORD, remember David And all his afflictions; How he swore to the LORD, And vowed
-to the Mighty God of Jacob: “Surely I will not go into the chamber of my house, Or go up to the
-comfort of my bed; I will not give sleep to my eyes Or slumber to my eyelids, Until I find a place
-for the LORD, A dwelling place for the Mighty God of Jacob.” Behold, we heard of it in Ephrathah; We
-found it in the fields of the woods. Let us go into His tabernacle; Let us worship at His footstool.
-Arise, O LORD, to Your resting place, You and the ark of Your strength. Let Your priests be clothed
-with righteousness, And let Your saints shout for joy. For Your servant David’s sake, Do not turn
-away the face of Your Anointed. The LORD has sworn in truth to David; He will not turn from it: “I
-will set upon your throne the fruit of your body. If your sons will keep My covenant And My
-testimony which I shall teach them, Their sons also shall sit upon your throne forevermore.” For the
-LORD has chosen Zion; He has desired it for His habitation: “This is My resting place forever; Here
-I will dwell, for I have desired it. I will abundantly bless her provision; I will satisfy her poor
-with bread. I will also clothe her priests with salvation, And her saints shall shout aloud for joy.
-There I will make the horn of David grow; I will prepare a lamp for My Anointed. His enemies I will
-clothe with shame, But upon Himself His crown shall flourish.” Alleluia.
-         </content>
-    </prayer>
-    
-    <prayer>
-        <title>Psalm 133</title>
-        <content>Behold, how good and how pleasant it is For brethren to dwell together in unity! It
-is like the precious oil upon the head, Running down on the beard, The beard of Aaron, Running down
-on the edge of his garments. It is like the dew of Hermon, Descending upon the mountains of Zion;
-For there the LORD commanded the blessing—Life for evermore. Alleluia.
-         </content>
-    </prayer>
-    
-    <prayer>
-        <title>Psalm 134</title>
-        <content>Behold, bless the LORD, All you servants of the LORD, Who by night stand in the
-house of the LORD! Lift up your hands in the sanctuary, And bless the LORD. The LORD who made heaven
-and earth Bless you from Zion! Alleluia.
-         </content>
-    </prayer>
-    
-    <prayer>
-        <title>Psalm 137</title>
-        <content>By the rivers of Babylon, There we sat down, yea, we wept When we remembered Zion.
-We hung our harps Upon the willows in the midst of it. For there those who carried us away captive
-required of us a song, And those who plundered us required of us mirth, Saying, “Sing us one of the
-songs of Zion!” How shall we sing the Lord’s song In a foreign land? If I forget you, O Jerusalem,
-Let my right hand forget her skill! If I do not remember you, Let my tongue cling to the roof of my
-mouth—If I do not exalt Jerusalem Above my chief joy. Remember, O LORD, against the sons of Edom The
-day of Jerusalem, Who said, “Raze it, raze it, To its very foundation!” O daughter of Babylon, who
-are to be destroyed, Happy shall he be who repays you as you have served us! Happy shall he be who
-takes and dashes Your little ones against the rock. Alleluia.
-         </content>
-    </prayer>
-    
-    <prayer>
-        <title>Psalm 138</title>
-        <content>I will praise You with my whole heart; Before the gods I will sing praises to You.
-I will worship toward Your holy temple, And praise Your name For Your loving-kindness and Your
-truth; For You have magnified Your word above all Your name. In the day when I cried out, You
-answered me, And made me bold with strength in my soul. All the kings of the earth shall praise You,
-O LORD, When they hear the words of Your mouth. Yes, they shall sing of the ways of the LORD, For
-great is the glory of the LORD. Though the LORD is on high, Yet He regards the lowly; But the proud
-He knows from afar. Though I walk in the midst of trouble, You will revive me; You will stretch out
-Your hand Against the wrath of my enemies, And Your right hand will save me. The LORD will perfect
-that which concerns me; Your mercy, O LORD, endures forever; Do not forsake the works of Your hands.
-Alleluia.
-         </content>
-    </prayer>
-    
-    <prayer>
-        <title>Psalm 141</title>
-        <content>LORD, I cry out to You; Make haste to me! Give ear to my voice when I cry out to
-You. Let my prayer be set before You as incense, The lifting up of my hands as the evening
-sacrifice. Set a guard, O LORD, over my mouth; Keep watch over the door of my lips. Do not incline
-my heart to any evil thing, To practice wicked works With men who work iniquity; And do not let me
-eat of their delicacies. Let the righteous strike me; It shall be a kindness. And let him reprove
-me; It shall be as excellent oil; Let my head not refuse it. For still my prayer is against the
-deeds of the wicked. Their judges are overthrown by the sides of the cliff, And they hear my words,
-for they are sweet. Our bones are scattered at the mouth of the grave, As when one ploughs and
-breaks up the earth. But my eyes are upon You, O God the Lord; In You I take refuge; Do not leave my
-soul destitute. Keep me from the snares which they have laid for me, And from the traps of the
-workers of iniquity. Let the wicked fall into their own nets, While I escape safely. Alleluia.
-         </content>
-    </prayer>
-    
-    <prayer>
-        <title>Psalm 142</title>
-        <content>I cry out to the LORD with my voice; With my voice to the LORD I make my
-supplication. I pour out my complaint before Him; I declare before Him my trouble. When my spirit
-was overwhelmed within me, Then You knew my path. In the way in which I walk They have secretly set
-a snare for me. Look on my right hand and see, For there is no one who acknowledges me; Refuge has
-failed me; No one cares for my soul. I cried out to You, O LORD: I said, “You are my refuge, My
-portion in the land of the living. Attend to my cry, For I am brought very low; Deliver me from my
-persecutors, For they are stronger than I. Bring my soul out of prison, That I may praise Your name;
-The righteous shall surround me, For You shall deal bountifully with me.” Alleluia.
-         </content>
-    </prayer>
-    
-    <prayer>
-        <title>Psalm 146</title>
-        <content>Praise the LORD! Praise the LORD, O my soul! While I live I will praise the LORD; I
-will sing praises to my God while I have my being. Do not put your trust in princes, Nor in a son of
-man, in whom there is no help. His spirit departs, he returns to his earth; In that very day his
-plans perish. Happy is he who has the God of Jacob for his help, Whose hope is in the LORD his God,
-Who made heaven and earth, The sea, and all that is in them; Who keeps truth forever, Who executes
-justice for the oppressed, Who gives food to the hungry. The LORD gives freedom to the prisoners.
-The LORD opens the eyes of the blind; The LORD raises those who are bowed down; The LORD loves the
-righteous. The LORD watches over the strangers; He relieves the fatherless and widow; But the way of
-the wicked He turns upside down. The LORD shall reign forever—Your God, O Zion, to all generations.
-Alleluia.
-         </content>
-    </prayer>
-    
-    <prayer>
-        <title>Psalm 147:1-11</title>
-        <content>Praise the LORD! For it is good to sing praises to our God; For it is pleasant, and
-praise is beautiful. The LORD builds up Jerusalem; He gathers together the outcasts of Israel. He
-heals the broken-hearted And binds up their wounds. He counts the number of the stars; He calls them
-all by name. Great is our Lord, and mighty in power; His understanding is infinite. The LORD lifts
-up the humble; He casts the wicked down to the ground. Sing to the LORD with thanksgiving; Sing
-praises on the harp to our God, Who covers the heavens with clouds, Who prepares rain for the earth,
-Who makes grass to grow on the mountains. He gives to the beast its food, And to the young ravens
-that cry. He does not delight in the strength of the horse; He takes no pleasure in the legs of a
-man. The LORD takes pleasure in those who fear Him, In those who hope in His mercy. Alleluia.
-         </content>
-    </prayer>
-    
-    <prayer>
-        <title>Psalm 147:12-20</title>
-        <content>Praise the LORD, O Jerusalem! Praise your God, O Zion! For He has strengthened the
-bars of your gates; He has blessed your children within you. He makes peace in your borders, And
-fills you with the finest wheat. He sends out His command to the earth; His word runs very swiftly.
-He gives snow like wool; He scatters the frost like ashes; He casts out His hail like morsels; Who
-can stand before His cold? He sends out His word and melts them; He causes His wind to blow, and the
-waters flow. He declares His word to Jacob, His statutes and His judgments to Israel. He has not
-dealt thus with any nation; And as for His judgments, they have not known them. Alleluia.
-         </content>
-    </prayer>
+	<prayer>
+		<title>المزمور المائة والثلاثون</title>
+		<content>يا رب لم يرتفع قلبي، ولم تستعلِ عيناي، ولم أسلك في العظائم ولا في العجائب التي هي
+أعلى مني. فان كنت لم أتضع لكن رفعت صوتي مثل الفطيم من اللبن على أمه، كذلك المجازاة على نفسي. فليتكل
+إسرائيل على الرب من الآن والى الأبد هلليلويا.
+		</content>
+	</prayer>
+	
+	<prayer>
+		<title> المزمور المائة والحادي والثلاثون</title>
+		<content>اذكر يا رب داود وكل دعته، كيف أقسم للرب ونذر لإله يعقوب: إني لا أدخل إلى مسكن بيتي،
+ولا أصعد على سرير فراشي، ولا أعطى لعيني نوما، ولا لأجفاني نعاسا، ولا راحة لصدغيَّ، إلى أن أجد موضعا
+للرب ومسكنا لإله يعقوبَ. ها قد سمعنا به في افراته ووجدناه في موضع الغابة. فلندخل إلى مساكنه ونسجد في
+الموضع الذي فيه استقرت قدماه.
+
+قم يا رب إلى راحتك أنت وتابوت موضع قدسك. كهنتك يلبسون البر وأبرارك يبتهجون. من أجل داود عبدك لا ترد
+وجهك عن مسيحك. حلف الرب لداود حقا ولا يخلف: لأجعَلنَّ من ثمرة بطنك على كرسيك. إن حفظ بنوك عهدي
+وشهاداتي التي أعلمهم إياها، فبنوهم أيضا يجلسون إلى الأبد على كرسيك. لأن الرب اختار صهيون ورضيها
+مسكنًا له. هذا هو موضع راحتي إلى أبد الأبد، ههنا أسكن لأني أردته. لصيدها أبارك بركة، لمساكينها أشبع
+خبزا، لكهنتها ألبس الخلاص وأبرارها يبتهجون ابتهاجا. هناك أقيم قرنا لداود. هيأتُ سراجا لمسيحي.
+لأعدائه ألبس الخزي وعليه يزهر قدسي هلليلويا.
+		</content>
+	</prayer>
+	
+	<prayer>
+		<title>المزمور المائة والثاني والثلاثون</title>
+		<content>هوذا ما أحسن وما أحلي أن يسكن الاخوة معا. كالطيب الكائن على الرأس الذي ينزل على
+اللحية، لحية هارون النازلة على جيب قميصه. ومثل ندى حرمون المنحدر على جبل صهيون. لأن هناك أمر الرب
+بالبركة والحياة إلى الأبد هلليلويا.
+		</content>
+	</prayer>
+	
+	<prayer>
+		<title> المزمور المائة والثالث والثلاثون</title>
+		<content>ها باركوا الربَّ يا عبيدَ الرب، القائمين في بيت الرب في ديار إلهنا. </content>
+	</prayer>
+	
+	<prayer>
+		<title>المزمور المائة والسادس والثلاثون</title>
+		<content>على أنهار بابل هناك جلسنا، فبكينا عندما تذكرنا صهيون. على الصفصاف في وسطها علقنا
+قيثاراتنا، لأنه هناك سألنا الذين سبونا أقوالَ التسبيح. والذين استاقونا إلى هناك قالوا: سبحوا لنا
+تسبحة من تسابيح صهيون.
+
+كيف نسبِّح تسبحة الرب في أرض غريبة. إن نسيتك يا أورشليم أنسَ يميني، ويلتصق لساني بحنكي إن لم أذكرك،
+إن لم أفضل أورشليم في ابتداء فرحي.
+
+اذكر يا رب بني أدوم في يوم أورشليم القائلين: انقضوا انقضوا حتى الأساس منها. يا بنت بابل الشقية طوبى
+لمن يكافئك مكافأتك التي جازيتينا. طوبى لمن يمسك أطفالك ويدفنهم عند الصخرة هلليلويا.
+		</content>
+	</prayer>
+	
+	<prayer>
+		<title> المزمور المائة والسابع والثلاثون</title>
+		<content>أعترف لك يا رب من كل قلبي لأنك استمعت كل كلمات فمي. أمام الملائكة أرتل لك وأسجد
+قدام هيكلك المقدس، وأعترف لاسمك على رحمتك وحقك، لأنك قد عظمت اسمك القدوس على الكل. اليوم الذي أدعوك
+فيه أجبني بسرعة. تكثر التطلع على نفسي بقوة.
+
+فليعترف لك يا رب كل ملوك الأرض. لأنهم قد سمعوا سائر كلمات فمك وليسبحوا في طرق الرب. لأن مجد الرب
+عظيم لأن الرب عال ويعاين المتواضعات والكائنات يعرفها من بعد. إن سلكت في وسط الشدة فإنك تحييني. على
+رجز الأعداء مددت يدك وخلصتني يمينك. الرب يجازي عني، يا رب رحمتك دائمة إلى الأبد. أعمال يديك يا رب لا
+تتركها هلليلويا.
+		</content>
+	</prayer>
+	
+	<prayer>
+		<title>المزمور المائة والأربعون</title>
+		<content>يا رب إليك صرخت فاستمع لي. أنصت إلى صوت تضرعي، إذا ما صرختُ إليك. لتسقم صلاتي
+كالبخور قدامك. وليكن رفع يدي كذبيحة مسائية. ضع يا رب حافظا لفمي، وبابا حصينا لشفتي. ولا تمل قلبي إلى
+كلام الشر، فيتعلل بعلل في الخطايا مع أناس فاعلي الإثم، ولا أتفق مع مختاريهم. فليؤدبني الصديق برحمة
+ويوبخني. أما زيت الخاطئ فلا يدهن رأسي، لأن صلاتي أيضا بمسرة. قد ابتُلِع أقوياؤهم عند الصخرة، يسمعون
+كلماتي لأنهم استلذوا. مثل شحم الأرض انشقوا على الأرض. تبددت عظامهم عند الجحيم، لأن عيوننا إليك يا
+رب، يا رب عليك توكلت فلا تقتل نفسي. احفظني من الفخ الذي قد نصبوه لي. ومن شكوك فاعلي الإثم. يسقط
+الخطاة في شبكتهم، وأكون أنا وحدي حتى يجوزَ الإثم هلليلويا
+		</content>
+	</prayer>
+	
+	<prayer>
+		<title>المزمور المائة والحادي والأربعون</title>
+		<content>بصوتي إلى الرب صرختُ، بصوتي إلى الرب تضرعتُ. أسكب أمامه توسلي. أبث لديه ضيقي، عند
+فناء روحي مني وأنت علمتَ سبلي. في الطريق التي أسلك أخفوا لي فخا، تأملت عن اليمين وأبصرت فلم يكن من
+يعرفني. ضاع المهرب مني وليس من يسأل عن نفسي. فصرختُ إليك يا رب وقلت: أنت هو رجائي وحظي في أرض
+الأحياء. أنصت إلى طلبتي فإنني قد تذللتُ جدا. نجني من الذين يضطهدونني لأنهم قد اعتزوا أكثر مني. أخرج
+من الحبس نفسي، لكي أشكر اسمك يا رب. إياي ينتظر الصديقون حتى تجازيني هلليلويا.
+		</content>
+	</prayer>
+	
+	<prayer>
+		<title>المزمور المائة والخامس والأربعون</title>
+		<content>سبحي يا نفسي الربَّ، أسبح الرب في حياتي وأرتل لإلهي ما دمت موجودا. لا تتكلوا على
+الرؤساء ولا على بني البشر الذين ليس عندهم خلاص. تخرج روحهم فيعودون إلى ترابهم. في ذلك اليوم تهلك
+كافة أفكارهم.
+
+طوبى لمن إله يعقوب معينه. واتكاله على الرب إلهه، الذي صنع السماء والأرض والبحر وكل ما فيها. الحافظ
+العدل إلى الدهر، الصانع الحكم للمظلومين المعطي الطعام للجياع. الرب يحل المربوطين الرب يقيم الساقطين.
+الرب يُحَكِّم العميان. الرب يحب الصديقين. الرب يحفظ الغرباء، ويعضد اليتيم والأرملة. ويبيد طرق
+الخطاة. يملك الرب إلى الدهر، وإلهك يا صهيون من جيل إلى جيل هلليلويا .
+		</content>
+	</prayer>
+	
+	<prayer>
+		<title> المزمور المائة والسادس والأربعون</title>
+		<content>سبحوا الرب فان المزمور جيد، ولإلهنا يلذ التسبيح. الرب يبني أورشليم. الرب يجمع
+متفرقي إسرائيل. الرب يشفي المنكسري القلوب، ويجبر جميع كسرهم. المحصي كثرة الكواكب، ولكافتها يعطي
+أسماء. عظيم هو الرب وعظيمة هي قوته، ولا إحصاء لفهمه. الرب يرفع الودعاء ويذل الخطاة إلى الأرض.
+
+ابتدئوا للرب بالاعتراف، رتلوا لإلهنا بالقيثارة. الذي يجلل السماء بالغمام، الذي يهيئ للأرض المطر،
+الذي يُنبت العشب على الجبال، والخضرة لخدمة البشر، ويعطي البهائم طعامها، ولفراخ الغربان التي تدعوه.
+لا يؤْثر قوة الفرس ولا يسر بساقي الرجل، بل يسر الرب بخائفيه وبالراجين رحمته هلليلويا.
+		</content>
+	</prayer>
+	
+	<prayer>
+		<title>المزمور المائة والسابع والأربعون</title>
+		<content>سبحي الرب يا أورشليم، سبحي إلهك يا صهيون. لأنه قد قوى مغاليق أبوابك وبارك بنيك فيك.
+الذي جعل تخومَك في سلام، ويملأك من شحم الحنطة. الذي يرسل كلمته إلى الأرض فيسرع قوله عاجلا جدا.
+المعطي الثلج كالصوف، المذري الضباب كالرماد، ويلقي الجليد مثل الفتات. قدام وجه برْدِه من يقوم. يرسل
+كلمته فتذيبه، تهب ريحه فتسيل المياه. المخبر كلمته ليعقوب وفرائضه وأحكامه لإسرائيل. لم يصنع هكذا بكل
+الأمم، وأحكامُه لم يوضحها لهم هلليلويا.
+		</content>
+	</prayer>
 		
 	<prayer>
-        <title>The Gospel (Luke 12:32-46)</title>
-        <content>A chapter from the Holy Gospel
-according to St. Luke
-may his blessings be with us all. Amen.
-“Do not fear, little flock, for it is your Father’s
-good pleasure to give you the kingdom.” Sell what
-you have and give alms; provide yourselves money
-bags which do not grow old, a treasure in the heavens
-that does not fail, where no thief approaches nor
-moth destroys. “For where your treasure is, there your heart will be also. “Let your waist be girded
-and
-your lamps burning; “and you yourselves be like
-men who wait for their master, when he will return
-from the wedding, that when he comes and knocks
-they may open to him immediately. “Blessed are
-those servants whom the master, when he comes,
-will find watching. Assuredly, I say to you that he
-will gird himself and have them sit down to eat, and
-will come and serve them. “And if he should come in
-the second watch, or come in the third watch, and
-find them so, blessed are those servants. “But know
-this, that if the master of the house had known what
-hour the thief would come, he would have watched
-and not allowed his house to be broken into. “Therefore
-you also be ready, for the Son of Man is coming
-at an hour you do not expect.” Then Peter said to
-Him, “Lord, do You speak this parable only to us, or
-to all people?” And the Lord said, “Who then is that
-faithful and wise steward, whom his master will
-make ruler over his household, to give them their
-portion of food in due season? “Blessed is that servant
-whom his master will find so doing when he
-comes. “Truly, I say to you that he will make him
-ruler over all that he has. “But if that servant says in
-his heart, ‘My master is delaying his coming,’ and
-begins to beat the menservants and maidservants,
-and to eat and drink and be drunk, “the master of that
-servant will come on a day when he is not looking for him, and at an hour when he is not aware; and
-will cut
-him in two and appoint him his portion with the
-unbelievers.
-Glory be to God forever. Amen.
+        <title>(إنجيل لوقا12: 32-46)</title>
+        <content>لا تخف أيها القطيع الصغير، فإن أباكم قد سر أن يعطيكم الملكوت. بيعوا أمتعتكم وأعطوا
+صدقة، واصنعوا لكم أكياسا لا تبلى، وكنزا في السموات لا يفنى، حيث لا يدنو منه سارق ولا يفسده سوس. لأنه
+حيث يكون كنزكم، هناك يكون قلبكم أيضا. لتكن أحقاؤكم ممنطقة ومصابيحكم موقدة وأنتم أيضا تشبهون أناسا
+ينتظرون سيدهم، متى يرجع من العرس، حتى إذا جاء وقرع يفتحون له للوقت. طوبى لأولئك العبيد الذين إذا جاء
+سيدهم يجدهم ساهرين. الحق أقول لكم إنه يتمنطق ويتكئهم ويقوم فيخدمهم. وإذا جاء في الهزيع الثاني أو جاء
+في الهزيع الثالث ووجدهم يصنعون هكذا، فطوبى لأولئك العبيد. وهذا اعلموه: أنه لو كان رب البيت يعلم في
+أية ساعة يأتي السارق، لكان يسهر ولا يدع بيته يُنقب. فكونوا أنتم أيضا مستعدين. فإنه في ساعة لا
+تعرفونها يأتي ابن الإنسان.
+
+فقال له بطرس: يا رب ألنا قلتَ هذا أم قلته للجميع ؟ فقال الرب: من هو الوكيل الأمين الحكيم الذي يقيمه
+سيده على عبيده ليعطيهم طعامهم في حينه ؟ طوبى لذلك العبد الذي إذا جاء سيده يجده يفعل هكذا. حقا أقول
+لكم إنه يقيمه على جميع أمواله. ولكن إن قال ذلك العبد الرديء في قلبه إن سيدي يبطئ في قدومه، فيبدأ
+يضرب العبيد والإماء ويأكل ويشرب ويسكر، يأتي سيد ذلك العبد في اليوم الذي لا يتوقعه وفي الساعة التي لا
+يعرفها، فيشقه من وسطه، ويجعل نصيبه مع عديمي الإيمان (والمجد لله دائما)
         </content>
     </prayer>
     
     <prayer>
-        <title>The Parts</title>
-        <content>
-O’ Lord look at my weakness with a compassionate
-eye, for my life is nearing its end and with deeds
-like mine, I shall have no salvation. I pray to You, my
-Lord, to look with merciful eyes, at me weakness and
-my disgrace and my humility, and save me. Thok-sapatri
-Ke ey-you Ke agiyou ep-nevmaty.
-Wake up, my soul and be careful, your judge is
-present. Consider the awesome time of judgement,
-there will be no mercy on those who did not have
-mercy on others. O’ Saviour, help me, for You alone
-have such love for humanity. Ke-neen Ke-a-ee Keis-
-touse E-onas ton E-onon. Amen.
-O’ Graceful Mother of God, help those who come
-to your faith. As we glorify Your immaculate birth of
-Our Saviour. Ke-neen Ke-a-ee Ke-is-touse E-onas
-ton E-onon. Amen.
-O’ Heavenly King, the Spirit of truth, the comforter,
-who is every where and fills everybody. You
-are the treasure of goodness and giver of life, we ask
-You to graciously come and dwell with in us, purify us from iniquity and save our souls.
-Thok-sa-patri
-Ke ey-you Ke agiyou ep-nevmaty.
-Lord, abide with us as You did with the apostles,
-when You gave them Your peace, we ask You to
-grant us Your peace, our Saviour; save us and spare
-our souls. Ke-neen Ke-a-ee Ke-is-touse E-onas ton
-E-onon. Amen.
-Whenever we stand in Your Holy Temple, we are
-considered as those who abide in heaven. O’ Mother
-of God, you are the gate of heaven, open to us the
-door of mercy.
-Lord have mercy (Kir-ye ley-son) 41 times.
+        <title>القطع</title>
+        <content>¨   بعين متحننة يا رب انظر إلى ضعفى، فعما قليل تفنى حياتي، وبأعمالي ليس لي خلاص.
+فلهذا أسال: بعين رحيمة يا رب انظر إلى ضعفى وذلي ومسكنتي وغربتي، ونجني. (ذوكصابترى).
+
+¨   بما أن الديان حاضر، اهتمي يا نفسي وتيقظي وتفهمي تلك الساعة المخوفة. فإنه ليس رحمة في الدينونة
+لمن لم يستعمل الرحمة. فلهذا أشفق عليّ أيها المخلص، فإنك أنت هو محب البشر وحدك (كىنين).
+¨   يا باب الحياة العقلي، يا والدة الإله المكرمة، خلصي الذين التجأوا إليك بإيمان من الشدائد، لكي
+نمجد ميلادك الطاهر في كل شئ من أجل خلاص نفوسنا. (كىنين).
+¨   أيها الملك السمائي المعزى، روح الحق، الحاضر في كل مكان والمالئ الكل، كنز الصالحات، ومعطى الحياة،
+هلم تفضل وحل فينا، وطهرنا من كل دنس أيها الصالح، وخلص نفوسنا. (ذوكصابترى … ).
+¨   كما كنت مع تلاميذك أيها المخلص  وأعطيتهم السلام، هلم أيضا كن معنا وامنحنا سلامك وخلصنا ونج
+نفوسنا. (كى نين.. )
+¨        إذا ما وقفنا في هيكلك المقدس نحسب كالقيام في السماء. يا والدة الإله، أنت هي باب السماء،
+افتحي لنا باب الرحمة.
+ 
+
+كيريى ليسون 41 مرة
         </content>
     </prayer>
     
@@ -827,34 +745,35 @@ Lord have mercy (Kir-ye ley-son) 41 times.
 
 
     <prayer>
-        <title>The Gospel (Luke 2:29-32)</title>
-        <content>A chapter from the Holy Gospel
-according to St. Luke
-may his blessings be with us all Amen.
-“Lord, now You are letting Your servant depart in
-peace, according to Your word; for my eyes have
-seen Your salvation which You have prepared before
-the face of all peoples, a light to bring revelation to the
-Gentiles, and the glory of Your people Israel.”
-Glory be to God forever. Amen.
+        <title>فصل من إنجيل لوقا( ص2 : 29-32 )</title>
+        <content>الآن يا سيدي، تطلق عبدك بسلام حسب قولك، لأن عيني قد أبصرتا خلاصك الذي أعددته قدام
+جميع الشعوب. نورًا تجلى للأمم، ومجدا لشعبك إسرائيل. والمجد لله دائما.
         </content>
     </prayer>
     
      <prayer>
-        <title>The Creed</title>
-        <content>Truly we believe in One God, the Almighty God the Father, maker of heaven and
-earth, of all things visible and invisible. We believe in one Lord, Jesus Christ the only begotten
-Son of God, born of the Father before all ages; light out of light, true God out of true God,
-begotten not made; consubstantial with the Father, through whom all things came into being. He
-descended from heaven for us and for our salvation, and was incarnated from the Holy Spirit and of
-the Virgin Mary, and became man. He was crucified for us at the time of Pontius Pilate. He suffered
-and was buried; arose from the dead on the third day in accordance with the Scriptures; He ascended
-to the heavens and sat at the right hand of the Father; He shall also come in His glory to judge the
-living and the dead; of whose kingdom there will be no end. Truly we believe in the Holy Spirit, the
-Lifegiving Lord, who proceeds from the Father, we worship and glorify Him together with the Father
-and the Son, who spoke in the prophets. And in one, holy, universal and Apostolic Church. We
-acknowledge one baptism for the remission of sins. And we look for the resurrection of the dead and
-the life of the world to come. Amen. Lord have mercy (Kir-ye ley-son) 41 times.
+        <title>قانون الإيمان المقدس الأرثوذكسي</title>
+        <content>بالحقيقة نؤمن بإله واحد، الله الآب، ضابط الكل، خالق السماء والأرض، ما يُرَى وما لا
+يرى.
+
+نؤمن برب واحد يسوع المسيح، ابن الله الوحيد، المولود من الآب قبل كل الدهور، نور من نور، إله حق من إله
+حق، مولود غير مخلوق، مساو للآب في الجوهر، الذي به كان كل شئ. هذا الذي من أجلنا نحن البشر، ومن أجل
+خلاصنا، نزل من السماء، وتجسد من الروح القدس ومن مريم العذراء، وتأنس. وصلب عنا على عهد بيلاطس البنطي.
+وتألم وقبر وقام من بين الأموات في اليوم الثالث كما في الكتب، وصعد إلى السموات، وجلس عن يمين  أبيه،
+وأيضا يأتي في مجده ليدين الأحياء والأموات، الذي ليس لملكه انقضاء.
+
+نعم نؤمن بالروح القدس، الرب المحيى المنبثق من الآب. نسجد له ونمجده مع الآب والابن، الناطق في
+الأنبياء.
+
+وبكنيسة واحدة مقدسة جامعة رسولية.
+
+ونعترف بمعمودية واحدة لمغفرة الخطايا.
+
+وننتظر قيامة الأموات وحياة الدهر الآتي. أمين.
+
+
+
+كيرياليسون (يا رب ارحم) 41 مرة
         </content>
     </prayer>
     
@@ -874,21 +793,13 @@ the life of the world to come. Amen. Lord have mercy (Kir-ye ley-son) 41 times.
 	</prayer>
 	
     <prayer>
-        <title>The Absolution</title>
-        <content>Lord Jesus Christ, Son of our eternal God, enlighten
-our minds to understand Your life giving
-words. Raise us from the darkness of mortal sin,
-make us worthy to be steady in virtue. When You
-come to judge the world, grant us to hear the joyful
-call; “Come you that are blessed by My Father! Come
-and inherit the Kingdom that has been prepared for
-you since the creation of the world!”
-Lord grant us to attend at that hour without fear,
-anxiety or condemnation. Do not judge us according
-to our sins, because You alone, have such compassion,
-patience and mercy. May You accept these
-prayers through the pleadings of the Holy Mother of
-God, Virgin Mary and all the saints. Amen.
+        <title>التحليل</title>
+        <content>أيها السيد الرب يسوع المسيح، ابن الله الحي الأزلي، أنر عقولنا لنفهم أقوالك المحيية.
+وأنهضنا من ظلمة الخطية القاتلة للنفس. واجعلنا أهلا أن نكون مستقيمين في عمل الخير. وفى وقت مجيئك
+لتدين العالم، فلنستحق سماع ذلك الصوت المملوء فرحا، القائل: تعالوا إلى يا مبارَكي أبى، رثوا الملك
+المعد لكم من قبل إنشاء العالم. نعم يا رب، سهل لنا أن نكون في تلك الساعة بغير خوف ولا اضطراب ولا سقوط
+في الدينونة. ولا تجازنا من أجل كثرة آثامنا، لأنك وحدك المتحنن الطويل الأناة الكثير الرحمة، بشفاعة
+سيدتنا والدة الإله القديسة مريم، وشفاعة جميع مصاف قديسيك. أمين.
         </content>
     </prayer>
     
