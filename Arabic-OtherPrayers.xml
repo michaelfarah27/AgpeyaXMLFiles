@@ -1,48 +1,105 @@
 <hour>
-    <info><hourName>Other Prayers</hourName><description>A collection of prayers that are read in their applicable time</description></info>
+    <info><hourName>Other Prayers</hourName>
+    <description>A collection of prayers that are read in their applicable time
+    </description></info>
     
     <prayer>
 		<title>Prayer Before Holy Communion</title>
-		<content>Lord, I am not worthy to have You come under my roof because I am a sinner, but only say the word; “Your sins are forgiven” and my soul will be healed. I am barren and empty of any goodness, I have nothing but Your compassion, mercy and love to mankind. You descended from your Heavenly Glory to our humility and consented to be born in a Manger. O’ Holy Saviour, do not reject my humble and miserable soul which is waiting for Your Glorified coming. As You did not refuse to enter the leper’s house to heal him, please Lord, come into my soul to cleanse it. As You did not stop the adulteress from kissing Your feet, please do not prevent me from coming near You to receive Your Holy Body and Your Sacred Blood. May this Holy Communion banish every corruption and mortify all my evil desires. Help me to obey Your commandments and heal my soul and my body from every sin. May Your spirit dwell with in me and make me united with You so I may live for the Glory of Your Name. Amen.
+		<content>بارب إنى غير مستحق أن تدخل تحت سقف بيتى لأنى إنسان خاطئ فقل كلمه أولآ لتبرأ نفسى.
+قل لنفسى مغفورة لك
+خطاياك. إنى مقفر وخال من كل صلاح وليس لى سوى تحننك ورأفتك ومحبتك للبشر وأنت قد تنازلت من سماء مجدك 
+غير المدرك إلى ذلنا وارتضيت أن تولد فى مذود البقر. فلا ترفض يا مخلصى القدوس أن تقبل إلى نفسى الذليله
+الحقيرة التى تنتظر حضورك البهى. إنك لم تستنكف من دخول بيت الأبرص لتشفيه فاسمح يالهى بالدخول إلى نفسى
+لتطهرها. لم تمنع الخاطئهٌ من تقبيل قدميك فلا تحرمنى الدنو منك لتناول جسدك الطاهر ودمك الاقدس, بل
+فليصر تناولى للإشتراك معك ولإبادة كل ما هو دنس ولإماته ٌأهوائى الدنيئه وللعمل بوصاياك المحييهٌ
+ولشفاء نفسى وجسدى من كل خطيهٌ ولقبول مواهبك ولسكنى نعمتك ولحلول روحك وللإتحاد بك والثبات فيك لأحيا
+لمجد اسمك القدوس. آمين.
 		</content>
 	</prayer>
 	
 	<prayer>
 		<title>Prayer After Holy Communion</title>
-		<content>My tongue praises and my soul glorifies the Lord. My heart rejoices for You have come to me, Lord, and dressed me in purity and allowed me to Your feast. May my union with You today be everlasting, through it I grow in strength of faith and hope. Let my communion be a symbol of the grace of Your salvation, let it be a purification to my body and my soul and preparation for the everlasting love and joy. To You Lord, I surrender myself and my will, call to You my senses and bless them and let my mind to be according to Your will. Enlighten my heart, awaken my conscience, cast away all shadows of evil, hush the storms, walk with me and guide me. Give me comfort, quench my thirst, look with love at all my short comings, abide with me for the day is coming to an end and stay with me for a new day. You alone are my aim and happiness, now and forever. Amen.
-		</content>
+		<content>أشكر صلاحك أيها الآب محب البشر لأنك لم تشأ هلاكى. بل أيقظتنى من غفلتى وهديتنى إلى
+طريقك. ورددتنى من وادى 
+الهلاك إلى حمى حصنك الأمين. فاملأنى بالرجاء والإيمان. أقبلت إليك يارب كالمريض إلى الطبيب الشافى, و
+كالمفتقر 
+الجائع إلى الغذاء المشبع, وكالعطشان إلى ينابيع المياة الحيه, وكالفقير إلى مصدر الغنى, وكالخاطئ إلى
+المخلص, وكالمائت إلى ينبوع الحياة. لأنك خلاصى, وطبيبى,وقوتى, وتعزيتى, وسعادتى, وفيك راحتى. فأعنى
+واحفظنى وسيج حولى. وعلمنى أن أضع بين يديك كل إرادتى. لأسير حسب ما تشاء, أعن ضعفى كى أثبت ودوم أمينا
+لك إلى النهايهٌ.
+</content>
 	</prayer>
 
-    
+
     <prayer>
 		<title>Prayer of Repentance</title>         
-		<content>My Lord God and Saviour Jesus Christ, treasure of mercy and spring of salvation, I come to You confessing my sins. I confess that, insolently, I dared to defile Your Holy Sanctuary with my sins. Now I seek Your mercy and love, for Your mercies are boundless; You never turn back a sinner who comes back to You. I confess that my mind is burdened with sin and that I have no strength left. Do not turn away from me, do not rebuke me in Your anger nor chasten me in Your hot displeasure. I am worn out, have compassion upon me, O’ Lord do not judge me in Your justice, but according to Your mercy. Remember Your creation, do not put me on trial, because non of Your servants can justify his deeds. Dress me in a new attire that befits Your glory. Forgive my sins and I shall sing; “Blessed is he whose sins are forgiven.” When I confess my sins, and reveal my iniquities, You cleanse them. Amen.
-		</content>
+		<content>ربى والهى ومخلصى يسوع المسيح. كنز الرحمة ونبع الخلاص. اتى اليك مقرا بذنوبى.اعترف
+بأنى بوقاحه تجاسرت  
+ودنست  هيكلك  المقدس  بخطاياى. والان الجاء الى رحمتك وتحننك . لان مراحمك لاتحصى. وانك لا ترد خاطئا
+اقبل 
+الىك فها انا يارب  معترفا بأن  اثامى قد طمت فوق رأ سى كحمل ثقيل. وقد فارقتنى قوتى. فلاتحجب يارب وجهك
+عنى 
+لئلا ارتاع. ولا تحاكمنى بحسب استحقاقى. ارحمنى يارب فاءنى ضعيف. اذكر يارب انى عمل يديك وارأف بى.
+لاتدخل فى المحاكمه مع عبدك لأنه لن يتبرر قدامك حى. عد وألبسنى حله جديدة تليق لمجدك. اغفر لى وسامحنى 
+لأترنم قائلأ:طوبى لمن غفر خطيته. اعترف لك بخطيتى ولا اكتم إثمى . قلت للرب بذنبى. وأنك رفعت آثام
+خطيتى. آمىن.
+</content>
 	</prayer> 
 	
 	<prayer>
 		<title>Prayer Before Confession</title>         
-		<content>O Holy Father who awaits the return of sinners, You gave Your promise that You are ready to accept those who repent. Look now to a soul that was lost in the valleys of disobedience. For a long time I have tasted the bitterness of misery, being away from the stream of salvation. Now I come back to You to be purified, accept and not reject me, for when you look at me with mercy and compassion, I will be cleansed and saved. If you turn away, I shall perish. Grant me O Lord, Your blessing to strengthen my will to come closer to You in faith and hope, to confess my sins and detest returning to them. May Your Holy Spirit remind me not to stray. May You enlighten my heart so I can see the graveness of my sins and negligence and have the will to obey Your commandments and live for the Glory of Your Holy Name. Amen.
-		</content>
+		<content>ايها الآب القدوس , الذى يحب رجوع الخطاة . وقد وعدت انك مستعد لقبولهم. انظر يارب
+الآن الى نفس خاطئه قد ضلت 
+وتاهت فى اوديه العصيان زمانا طويلآ . فيه تمررت وشعرت بشقاوتها, تطلب منك تطهيرها من الأدناس والأقذار
+التى 
+توحلت فىها. إقبلها ولا ترقضها فإنك إن نظرت إليها بحنوك وعاملتها برحمتك تنقت وخلصت, وإن أهملتها بادت
+وهلكت.
+إمنحنى يارب نعمهٌ بها أتقوى على الدنو منك بإيمان وطيد ورجاء تام. لأعترف بذنوبى وأكره العودة إليها.
+وليبكتنى روحك على آثامى. أنر قلبى لأرى كم أخطأت وأسأت وتركت وأهملت. وامنحنى عزما على عدم الرجوع إلى
+الإثم لأثبت فى حفظ وصاياك وأحيا لمجد اسمك القدوس. آمين.</content>
 	</prayer> 
 
 	<prayer>
 	      <title>Prayer After Confession</title>         
-		<content>O’ Father, I am grateful for Your goodness, and love for mankind. You did not wish that I perish, but awakened me from my sleep and guided me to Your path. You saved me from the valley of death to the protection of Your strong fortress. Fill me with hope and faith, I come to You like the sick wishing to be healed, like the hungry seeking to be filled, like the thirsty to the springs of living water, like the poor to the source of riches and the sinner to the redeemer, and like the dying to the origin of life. You are my salvation, my health, my life and my strength. With You, I find consolation, happiness and comfort. Help me, protect me and surround me with Your goodness. Teach me to put my will in Your hands and live according to Your will. Remove my weakness so I may be firm and honest to You to the end. Amen.
+		<content>أشكر صلاحك أيها الآب محب البشر لأنك لم تشأ هلاكى. بل أيقظتنى من غفلتى وهديتنى إلى
+طريقك. ورددتنى من وادى 
+الهلاك إلى حمى حصنك الأمين. فاملأنى بالرجاء والإيمان. أقبلت إليك يارب كالمريض إلى الطبيب الشافى, و
+كالمفتقر 
+الجائع إلى الغذاء المشبع, وكالعطشان إلى ينابيع المياة الحيه, وكالفقير إلى مصدر الغنى, وكالخاطئ إلى
+المخلص, وكالمائت إلى ينبوع الحياة. لأنك خلاصى, وطبيبى,وقوتى, وتعزيتى, وسعادتى, وفيك راحتى. فأعنى
+واحفظنى وسيج حولى. وعلمنى أن أضع بين يديك كل إرادتى. لأسير حسب ما تشاء, أعن ضعفى كى أثبت ودوم أمينا
+لك إلى النهايهٌ.
 		</content>
 	</prayer> 
 	
-    
-		
+
+
 	<prayer>
 		<title>Prayer Before Meals</title>         
-		<content>Blessed are you O’ Lord who supports us from our youth: grants us Your blessings, and provides food for all; for our eyes are focused upon you. You give us our food in due course. You open your hands and fill every living creature. To you is the glory, praise, blessing and thanksgiving for the food that you have prepared for us. Stretch your hand and bless the food set before us for the nourishment of our bodies. Let it be strength and health to our lives. Grant salvation, grace, blessing and purity to all those who partake of it. Lift our minds to you at all times to seek our spiritual and eternal food. Give us to labour for the food which endures to everlasting life. Grant us to be partakers in your heavenly feast. Give us the bread of blessing, the cup of salvation and fill our hearts with joy and gladness. Grant us a quiet peaceful life, a joyful soul and a healthy body. Teach us to seek your acceptance in everything so that if we eat, drink or make anything, we do it for the glory of Your Holy Name. For thine is the glory forever. Amen.
+		<content>تباركت يارب يا من تعولنا منذ حداثتنا وتهبنا خيراتك. وتهيئ الغذاء للجميع. لأن اعين
+الكل تترجاك وأنت تعطيهم طعامهم فى حينه. تفتح يدك فتشبع كل حى رضى. لك المجد والتسبيح والبركه والشكر
+على كل ما أعددت لنا من الطعام الموضوع 
+على هذه المائدة المعدة لغذاء أجسادنا. إجعله شفاءً وقوةً لحياتنا الجسديه. إمنح خلاصاً ونعمةً وبركةً
+وطهراً لكل المتناولين 
+منه. إرفع عقولنا إليك كل حين لطلب طعامنا الروحى غير البائد.أعطنا أن نعملْ للطعام الباقى للحـياة
+الأبـدية وهبْ لنا
+نصيباً فى الإشتراك فى وليمتك السمائية. إمنحنا خبز البركة وكأس الخلاص واملأ قلوبنا من البهجة والفرح.
+أنْعمْ علينا بحياة مطمئنة هادئة, وسعادة فى النفس وصحة فى الجسد. علمنا أنْ نطلب رضاك فى كُل شئ حتى
+إذا أكلنا أو شربْنا أو عملنا أى شئ حتى إذا أكلنا أو شربْنا أو عملْنا أى شئ نعملهُ لمجد اسْمك القُدوس
+لأن لك المجدُ إلى الأبد. آمين.
 		</content>
 	</prayer> 
 	
 	<prayer>
 		<title>Prayer for God’s Guidance</title>         
-		<content>Lord You are aware that I do not know what is good for me, and now that I am about to start .........., how can I know if it is right unless You guide me with Your grace. O’ Lord, I beseech Your guidance in this matter, do not let me follow my tendencies, lest I will be confused and fall, keep me from slipping, help me, let it be according to Your will. If You see it fit, grant me Your blessing to complete it, if not, remove this desire from my heart. You know all things, nothing is concealed from You. Lord, I am Your servant, deal with me as You see fit as I realise that I will have neither success nor peace unless I submit my self to the grace of Your will, teach me to say in every occasion; “Let it be according to Your will, Lord, not according to mine.” For Yours is the Kingdom, the Power and Glory forever more. Amen.
+		<content>إلهى أنت تعْلمُ أنى لا أعْرف ما هو الصالح لنفْس. وها أنا قد شرعْتُ فى. . . . . فمن
+أين لى أن أعْرف حسناً ما هو المفيدُ لى  إن لم أسترشدْ نعمتك فى ذلك. فأسْألُك ياربً أن تدبرنى فى هذا
+الأمرُ. لاتتْركنى ومشورة نفسى, ولا تدعْنى أجْرى وراء أمْيالى لئلا اتورط وأسقطُ, بل اعْصم عبدك من
+الزلل, وكُنْ مُتكلى وعونْى, ودبر الأمْر بحسب إرادتك كما يُوافقُ صلاحك وإنْ حسْن لديْك فليكنْ كما
+تُريد, وهبْنى نعْمتك لأتممهُ, وإن كان يُضر فانْزعْ منى ياربً هذه الرغْبةُ لأنك عليم بكُل شئ ولا
+يخْفى عليك أمْر. وها أنا عبدك عاملْنى بما يُوافقُك, إذ لانجاح تام ولا سلام كامل إلا بتسليم ذاتى تحت
+تدبير مشيئتك. علمنى أنْ أقول فى كُل شئ : يا أبتاه ليس كمشيئتى بل كمشيئتك. لأن لْك الُملكُ والقُوةُ
+والمجدُ من الآن وإلى الأبد. آمين.
 		</content>
 	</prayer>
     
@@ -183,7 +240,7 @@
 		</content>
     </prayer>
     
-    
 
-	
+
+
 	 </hour>  
