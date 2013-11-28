@@ -2,6 +2,8 @@
     <info>
         <hourName>The Veil Prayers</hourName>
         <description>The Prayer of the Veil is read daily in the monasteries after the Twelfth Hour and before the Midnight Prayers.</description>
+        <time>Reserved for Bishops, Priests and Monks</time>
+        
     </info>
     
     <prayer>

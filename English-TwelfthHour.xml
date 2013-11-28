@@ -1,6 +1,9 @@
 <hour>
     <info><hourName>The Twelfth Hour</hourName><description>Instituted to commemorate the laying down of the body of our Lord Jesus Christ in the tomb, also because it is the last hour of man’s life in his day, since sleep is considered as a little death.</description>
+        <time>Compline ~ 9pm</time>
+        
     </info>
+    
     <prayer>
 		<title>Introductory Prayer</title>
 		<content>† In the name of the Father, and the Son, and the Holy Spirit, one God. Amen.
