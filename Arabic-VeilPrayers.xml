@@ -2,7 +2,8 @@
 <hour>
     <info><hourName>صلاة الستار</hourName>
         <description>خاصة بالرهبان</description>
-    </info>
+        <time>This hour is ...</time>
+ </info>
     
    <prayer>
 		<title>مقدمة كل ساعة</title>

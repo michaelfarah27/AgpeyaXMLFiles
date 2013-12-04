@@ -3,7 +3,8 @@
     <info>
         <hourName>صلاة الغروب</hourName>
         <description>رتبت هذه الصلاه تذكارآ لنزول جسد السيد المسيح من علي الصليب، وتحنيطه بحنوط من مر وصبر، ولفه بلفائف كتان مع الاطياب.</description>
-    </info>
+        <time>This hour is ...</time>
+</info>
     
    <prayer>
 		<title>مقدمة كل ساعة</title>

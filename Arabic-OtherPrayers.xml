@@ -1,6 +1,9 @@
 <hour>
-    <info><hourName>صلوات أخرى</hourName>
-    <description>مجموعة من الصلوات الأخرى</description></info>
+    <info>
+        <hourName>صلوات أخرى</hourName>
+        <description>مجموعة من الصلوات الأخرى</description>
+        <time>Something</time>
+    </info>
     
     <prayer>
 		<title>صلاة قبل التناول</title>

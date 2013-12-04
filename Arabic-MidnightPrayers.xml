@@ -1,10 +1,13 @@
 
 <hour>
-    <info><hourName> صلاة نصف الليل</hourName></info>
-    <info><description>ثلاث خدمات</description></info>
-  
+    <info>
+        <hourName> صلاة نصف الليل</hourName>
+        <description>ثلاث خدمات</description>
+        <time>This hour is ...</time>
+    </info>
 
- <prayer> 
+
+ <prayer>
 		<title>الصلاة الربانية</title>
 		<content>االلهم اجعلنا مستحقين أن نقول بشكر:
 

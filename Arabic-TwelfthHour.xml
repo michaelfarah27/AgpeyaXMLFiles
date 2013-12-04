@@ -2,7 +2,8 @@
     <info>
         <hourName> صلاة النوم</hourName>
         <description>رتبت تذكارآ لوضع السيد المسيح في القبرولأنها آخرساعة من ساعات عمرالإنسان في نهاره. باعتبار أن النوم هو الموت الصغير.</description>
-    </info>
+        <time>This hour is ...</time>
+</info>
      <prayer>
 		<title>مقدمة كل ساعة</title>
 		<content>† باسم الآب والابن والروح القدس

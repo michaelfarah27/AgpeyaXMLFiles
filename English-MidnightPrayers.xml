@@ -1,7 +1,8 @@
 <hour> 
-	<info><hourName>The Midnight Prayers</hourName></info>
-	<info><description>Instituted to commemorate the three times our Saviour Jesus Christ prayed in Gethsemane during His affliction on the Holy Week.</description>
-      <time>Midnight ~ 12am</time>
+	<info>
+        <hourName>The Midnight Prayers</hourName>
+        <description>Instituted to commemorate the three times our Saviour Jesus Christ prayed in Gethsemane during His affliction on the Holy Week.</description>
+        <time>Midnight ~ 12am</time>
     </info>
     
     <prayer>
